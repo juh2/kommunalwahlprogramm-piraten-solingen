@@ -266,7 +266,7 @@ Wir wollen auch ein anonymes Mängelmelder-Portal und/oder eine App für Missst�
 
 Ein vielfältiges Kulturangebot ist kein überflüssiger Luxus, sondern ein wesentlicher Faktor für eine attraktive Stadt. Städtische Einrichtungen wie zB. unsere Museen, das Theater, die VHS, die Jugendmusikschule, aber auch viele private Initiativen leisten einen wesentlichen Beitrag dazu.
 
-Die Kulturförderung sollte sich weniger auf die traditionellen Angebote beschränken, sondern verstärkt kleineren Projekten, Festivals, Subkulturen und jungen Künstlern zukommen. Aber auch der weltweite Ruhm der in Solingen vernachlässigten Choreographin Pina  könnte besser für das kulturelle Stadtmarketing genutzt werden. Warum nicht ein Tanzfestival zu Ehren von Pina Bausch in Solingen einführen?  
+Die Kulturförderung sollte sich weniger auf die traditionellen Angebote beschränken, sondern verstärkt kleineren Projekten, Festivals, Subkulturen und jungen Künstlern zukommen. Aber auch der weltweite Ruhm der in Solingen vernachlässigten Choreographin Philippine Bausch (Pina Bausch) könnte besser für das kulturelle Stadtmarketing genutzt werden. Warum nicht ein Tanzfestival zu Ehren von Pina Bausch in Solingen einführen?  
 
 Die Dienstleistungen der Stadtbibliothek werden von den Solingen hervorragend angenommen. Wir wollen, dass dies auch weiterhin so bleibt. Der Etat für Neuanschaffungen von Büchern und anderen Medien, darf nicht gekürzt werden. Das Lesecafé, das schon einmal von der Schließung bedroht war, steht für uns nicht zur Disposition. Eine Verschlechterung der Öffnungszeiten wird ebenfalls abgelehnt. 
 
@@ -284,7 +284,7 @@ Solingen bietet neben regional bedeutsamen Rad- und Wanderwegen auch eine für d
 Als Maßnahmen fordern wir eine familienfreundliche Verbesserung der Radwege (Ost-West-Achse) in Solingen. 
 
 Einen Wettbewerb zur Bewerbung der Solinger Sehenswürdigkeiten am HBF Solingen (der dortige Schaukasten wird unserer Stadt nicht gerecht).
-Einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit.
+Einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit. (Die Geschichte von Schloss Burg bietet sich dafür sehr gut als Aufhänger an.)
 
 # Wirtschaft, Handel, Digitale Infrastruktur
  
