@@ -6,7 +6,7 @@ cover-image: Signet_Solingen.png
 
 # Mit den Solinger PIRATEN in den Stadtrat
  
-## Mitdenken, mitreden, mitentscheiden in Solingen. 
+## Mitdenken, mitreden, mitentscheiden in Solingen
 
 Die Piratenpartei setzt sich für einen stärkeren Schutz und die unbedingte Achtung der Menschen- und Bürgerrechte ein. Dazu gehören das Recht auf informationelle Selbstbestimmung und der Schutz persönlicher Daten. Wir wollen keinen gläsernen Bürger, sondern eine gläserne Politik und Verwaltung.  Dazu gehören öffentlich zugängliche Informationen und auch mehr Bürgerbeteiligung. Diese darf nicht die Ausnahme sein, sondern muss zur Regel werden.  Aufgabe der Stadt ist es, die Freiheiten und das Engagement der Bürger wertzuschätzen, sowie gute Rahmenbedingungen für die gesellschaftliche Teilhabe zu schaffen.  Der Zugang zu Bildung, Kultur, Mobilität und allen städtischen Leistungen darf nicht vom Geldbeutel abhängig sein oder durch diskriminierende Hindernisse erschwert werden. Wir wollen eine Stadt für alle.
 
@@ -22,13 +22,13 @@ Wir PIRATEN sind der festen Auffassung, dass es in Solingen ungenutzte Potenzial
 
 ## Bürgerbeteiligung
 
-Die Bürgerfragestunde vor Ratssitzungen hat sich bewährt, muss aber stärker als bisher in der Öffentlichkeit bekannt gemacht werden. Die Fragestunden sollten zu arbeitnehmerfreundlichen Uhrzeiten stattfinden (ab 18 Uhr). Wir wollen, dass vor den Sitzungen von Bezirksvertretungen, Ausschüssen und Beiräten ebenfalls regelmäßig Bürgersprechstunden angeboten werden.  
+Die Bürgerfragestunde vor Ratssitzungen hat sich bewährt, muss aber stärker als bisher in der Öffentlichkeit bekannt gemacht werden. Die Fragestunden sollten zu arbeitnehmerfreundlichen Uhrzeiten stattfinden (ab 18 Uhr). Wir wollen, dass vor den Sitzungen von Bezirksvertretungen, Ausschüssen und Beiräten ebenfalls regelmäßig Bürgerfragestunden angeboten werden.  
                                 
 Die Internet-Präsenz der Stadt soll zu einer interaktiven Plattform zur Bürgerbeteiligung ausgebaut werden. Insbesondere die in § 24 (Anregungen und Beschwerden), § 25 (Einwohnerantrag) und § 26 (Bürgerbegehren und Bürgerentscheid) der Gemeindeordnung eingeräumten Möglichkeiten zur Bürgerbeteiligung müssen auf der Website der Stadt schnell aufzufinden sein und allgemeinverständlich erläutert werden. Hier können auch bereits die notwendigen Formulare, beispielsweise für einen Bürgerantrag, bereitgestellt werden.  
 
-Um klare Verfahrensregeln für den Ablauf von Bürgerbeteiligungen und den Umgang mit deren Ergebnissen zu gewährleisten, sind "Leitlinien für mitgestaltende Bürgerbeteiligung" zu entwickeln. Dabei kann die Stadt bereits auf die Erfahrung anderer Kommunen, wie z.B. der Stadt Heidelberg, zurückgreifen.
+Um klare Verfahrensregeln für den Ablauf von Bürgerbeteiligungen und den Umgang mit deren Ergebnissen zu gewährleisten, sind ›Leitlinien für mitgestaltende Bürgerbeteiligung‹ zu entwickeln. Dabei kann die Stadt bereits auf die Erfahrung anderer Kommunen, wie zum Beispiel der Stadt Heidelberg, zurückgreifen.
 
-Die Bürger müssen früher als bisher in die Planung von Projekten einbezogen werden. Wir fordern seitens der Verwaltung die aktive Einbindung bereits vor dem Beginn der Planungen, damit Vorschläge aus der Bürgerschaft noch berücksichtigt werden können. Dazu ist als erster Schritt seitens der Verwaltung eine sogenannte  "Vorhabenliste" einzurichten. Auf dieser Liste sind alle wichtigen qualitativen und quantitativen Informationen über bedeutsame Projekte zusammengefasst und in Kurzform erläutert. Weiterhin finden sich dort Informationen darüber, ob und in welcher Form eine Bürgerbeteiligung stattfinden soll.
+Die Bürger müssen früher als bisher in die Planung von Projekten einbezogen werden. Wir fordern seitens der Verwaltung die aktive Einbindung bereits vor dem Beginn der Planungen, damit Vorschläge aus der Bürgerschaft noch berücksichtigt werden können. Dazu ist als erster Schritt seitens der Verwaltung eine sogenannte  ›Vorhabenliste‹ einzurichten. Auf dieser Liste sind alle wichtigen qualitativen und quantitativen Informationen über bedeutsame Projekte zusammengefasst und in Kurzform erläutert. Weiterhin finden sich dort Informationen darüber, ob und in welcher Form eine Bürgerbeteiligung stattfinden soll.
 
 Planung ist nicht nur Sache von Verwaltung oder hochbezahlten Gutachtern. Wir plädieren dafür, bei Großprojekten den Sachverstand und die Ideen der Bürger gezielt einzubeziehen. Ein Modell dafür sind Bürgergutachten. 
 
