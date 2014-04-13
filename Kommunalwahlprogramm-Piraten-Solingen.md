@@ -130,14 +130,14 @@ Wir wollen die Möglichkeiten für Park & Ride sowie Fahrgemeinschaften (zum Bei
 
 # Sicherheit und Ordnung
 
-Sicherheit ist ein wichtiger Faktor für die Lebensqualität einer Stadt. Dabei kommt besonders der Vorbeugung von Straftaten eine hohe Bedeutung zu. Die Einrichtung einer regelmäßig tagenden "Konferenz für Sicherheit und Ordnung" an der Akteure aus vielen Lebensbereichen teilnehmen, war deshalb ein richtiger Schritt. Bei allen Überlegungen muss dabei das Ziel einer effektiven Prävention im Vordergrund stehen.
+Sicherheit ist ein wichtiger Faktor für die Lebensqualität einer Stadt. Dabei kommt besonders der Vorbeugung von Straftaten eine hohe Bedeutung zu. Die Einrichtung einer regelmäßig tagenden ›Konferenz für Sicherheit und Ordnung‹ an der Akteure aus vielen Lebensbereichen teilnehmen, war deshalb ein richtiger Schritt. Bei allen Überlegungen muss dabei das Ziel einer effektiven Prävention im Vordergrund stehen.
 
-Das Sicherheitsgefühl der Bürger wird durch eine sichtbare Präsenz von Polizei sowie dem Ordnungsdienst der Stadt gestärkt. Wir fordern eine personelle Aufstockung der Polizeiinspektion Solingen. Der Ordnungsdienst der Stadt muss ebenfalls personell in die Lage versetzt werden verstärkt Kontrollen an problematischen Örtlichkeiten durchführen zu können.
+Das Sicherheitsgefühl der Bürger wird durch eine sichtbare Präsenz von Polizei sowie dem Ordnungsdienst der Stadt gestärkt. Wir fordern eine personelle Aufstockung der Polizeiinspektion Solingen. Der Ordnungsdienst der Stadt muss ebenfalls personell in die Lage versetzt werden, verstärkt Kontrollen an problematischen Örtlichkeiten durchführen zu können.
 
 An eine Kameraüberwachung sind strengste Maßstäbe anzulegen. Sie ist nur erlaubt, wo bereits mehrfach Straftaten begangen wurden und die örtliche Lage die Begehung von weiteren Straftaten begünstigt. Für eine Lockerung der derzeit geltenden Regelung im Polizeigesetz NRW sehen wir keinen Anlass.  
 
 
-# Umwelt, Energiepolitik und Wasser
+# Umwelt, Energie und Wasser
 
 Die Piratenpartei steht für Nachhaltigkeit. Voraussetzung dafür ist ein verantwortungsvoller Umgang mit den natürlichen Ressourcen. Wir PIRATEN nehmen die Herausforderungen des Klimawandels ernst. Im Jahr 2013 hat NRW als erstes Bundesland in einem Klimaschutzgesetz Ziele zur Verringerung von Treibhausgasen gesetzlich festgelegt: Bis 2020 sollen es mindestens 25 Prozent weniger sein, bis 2050 mindestens 80 Prozent weniger. Energieeffizientes Bauen und Sanieren, die Beachtung der Siedlungsentwicklung und sozialverträgliche Klimaschutzmaßnahmen sind daher nötig.
 
@@ -151,24 +151,24 @@ Die Grünen Oasen in unserer Stadt sind zu erhalten und auszubauen. Um die Entwi
  
 Die Solinger PIRATEN fordern, die Umweltauflagen für die Unternehmen regelmäßig zu kontrollieren. Die Ergebnisse der Kontrollen müssen barrierefrei und maschinenlesbar veröffentlicht werden.
  
-Um einen Gesamtüberblick über den Zustand von Flora, Fauna, Klima und Gewässer zu erhalten, sollte in regelmäßigen Abständen ein Umweltbericht vorgelegt werden. Als wichtiger Teil dieses Berichtes ist ein Klimagutachten zu erstellten. Auf der Grundlage der Bestandsaufnahme des Umweltberichtes können dann Handlungsstrategien entwickelt werden 
+Um einen Gesamtüberblick über den Zustand von Flora, Fauna, Klima und Gewässer zu erhalten, sollte in regelmäßigen Abständen ein Umweltbericht vorgelegt werden. Als wichtiger Teil dieses Berichtes ist ein Klimagutachten zu erstellen. Auf der Grundlage der Bestandsaufnahme des Umweltberichtes können dann Handlungsstrategien entwickelt werden 
 
-Wir setzen uns für eine frühzeitige Information der Bürger zur Ausrichtung der Energieerzeugung und - verteilung auf kommunaler Ebene ein. Wir sind für den Ausbau von dezentralen Versorgungsstrukturen.
+Wir setzen uns für eine frühzeitige Information der Bürger zur Ausrichtung der Energieerzeugung und -verteilung auf kommunaler Ebene ein. Wir sind für den Ausbau von dezentralen Versorgungsstrukturen.
  
 Die Einführung der Biotonne soll auf freiwilliger Basis erfolgen, wie es das Kreislaufwirtschaftsgesetz vorsieht. Die Kosten sind ausschließlich von denjenigen zu tragen, die eine Biotonne wünschen.
  
 ## Energie
 
-Wir stehen hinter der Rekommunalisierung der Stadtwerke. Die PIRATEN fordern eine umfassende Bürgerbeteiligung bei schwierigen und wichtigen politischen Weichenstellungen zur zukünftigen Geschäftspolitik.   Die Einrichtung eines Fahrgastbeirates im Verkehrsbereich hat sich bewährt. Um die Kunden auch im Energiebereich besser einzubeziehen, ist auch hier ein Kundenbeirat zu gründen.  
-Solingen hat sich zum Ziel gesetzt, die gesamtstädtischen Kohlendioxid-Emissionen bis 2020 um 20 Prozent zu senken. Die PIRATEN unterstützen dieses Ziel nachdrücklich. Durch den gezielten Ausbau der Erneuerbaren Energien und Eigenerzeugung können die Stadtwerke einen wichtigen Beitrag zur lokalen Energiewende leisten. 
+Wir stehen hinter der Rekommunalisierung der Stadtwerke. Die PIRATEN fordern eine umfassende Bürgerbeteiligung bei schwierigen und wichtigen politischen Weichenstellungen zur zukünftigen Geschäftspolitik. Die Einrichtung eines Fahrgastbeirates im Verkehrsbereich hat sich bewährt. Um die Kunden auch im Energiebereich besser einzubeziehen, ist auch hier ein Kundenbeirat zu gründen.  
+Solingen hat sich zum Ziel gesetzt, die gesamtstädtischen Kohlendioxid-Emissionen bis 2020 um 20 Prozent zu senken. Die PIRATEN unterstützen dieses Ziel nachdrücklich. Durch den gezielten Ausbau der Erneuerbaren Energien und der Eigenerzeugung können die Stadtwerke einen wichtigen Beitrag zur lokalen Energiewende leisten. 
 
-Die Umsetzung des vom Rat 2009 beschlossenen Klimaschutz-Konzeptes, das konkrete Maßnahmen und Ziele in allen wichtigen Handlungsfeldern, wie z.B. regenerative Energien, Energieeinsparung, Energieeffiziens und Mobilität vorsieht, wird von uns nachdrücklich unterstützt und muss mit den Zielen des Klimaschutzgesetzes NRW aus dem Jahr 2013 abgeglichen werden. 
+Die Umsetzung des vom Rat 2009 beschlossenen Klimaschutz-Konzeptes, das konkrete Maßnahmen und Ziele in allen wichtigen Handlungsfeldern, wie zum Beispiel regenerative Energien, Energieeinsparung, Energieeffizienz und Mobilität vorsieht, wird von uns nachdrücklich unterstützt und muss mit den Zielen des Klimaschutzgesetzes NRW aus dem Jahr 2013 abgeglichen werden. 
 
-Wir streben eine Beteiligung der Bürger an Energieprojekten der SWS (z.B. Bürgerfonds)an und wir befürworten die Gründung einer Solinger Bürgerenergiegenossenschaft.
+Wir streben eine Beteiligung der Bürger an Energieprojekten der SWS (zum Beispiel Bürgerfonds) an und wir befürworten die Gründung einer Solinger Bürgerenergiegenossenschaft.
 
-Die gegründete Energiegenossenschaft soll sich klare Ziele setzten und den Solinger Bürgern sowie den Mitgliedern einen echten Mehrwert bringen. Wie z.B. Mitbestimmung und Transparenz in der Energiepolitik der SWS, Sicherung der Energie- und Wasserversorgung zu angemessenen Preisen, Förderung der Kombination neuer Techniken in Privathaushalten etc. Zum Beispiel könnte auch ein Projekt für den Bau und die Vermarktung von Mini-BHKWs (Blockheizkraftwerke) in Solingen gefördert werden (ähnlich wie beim Projekt „100 Mikro-KWK-Anlagen“ in der InnovationCity Bottrop).
+Die gegründete Energiegenossenschaft soll sich klare Ziele setzen und den Solinger Bürgern sowie den Mitgliedern einen echten Mehrwert bringen: zum Beispiel Mitbestimmung und Transparenz in der Energiepolitik der SWS, Sicherung der Energie- und Wasserversorgung zu angemessenen Preisen, Förderung der Kombination neuer Techniken in Privathaushalten. Zum Beispiel könnte auch ein Projekt für den Bau und die Vermarktung von Mini-BHKW (kleinen Blockheizkraftwerken) – ähnlich wie beim Bottroper Projekt »100 Mikro-KWK-Anlagen« – in Solingen gefördert werden.
 
-Beim der Nutzung von Windenergie in Solingen ist ein sorgfältiger Abwägungsprozess erforderlich. Nach dem derzeitigen Erkenntnisstand (Stand Februar 2014) lehnen die PIRATEN das im Rahmen der ARGE Bergwind geplante Windradprojekt an der Sengbachtalsperre ab. Die Umstände (Kosten und Lage) für die Erschließung und Netzanbindung, sowie die Windgeschwindigkeiten (Erträge und CO2-Einsparungen) sind in Solingen nicht ideal. Der geringe Beitrag zur Energieversorgung Solingens wiegt die massive Störung des Landschaftsbildes, der Natur- und Tierwelt, in diesem,  auch für den Tourismus wichtigen, Bereich nicht auf. 
+Bei der Nutzung von Windenergie in Solingen ist ein sorgfältiger Abwägungsprozess erforderlich. Nach dem derzeitigen Erkenntnisstand (Stand Februar 2014) lehnen die PIRATEN das im Rahmen der ARGE Bergwind geplante Windradprojekt an der Sengbachtalsperre ab. Die Umstände (Kosten und Lage) für die Erschließung und Netzanbindung sowie die Windgeschwindigkeiten (Erträge und CO2-Einsparungen) sind in Solingen nicht ideal. Der geringe Beitrag zur Energieversorgung Solingens wiegt die massive Störung des Landschaftsbildes, der Natur- und Tierwelt, in diesem auch für den Tourismus wichtigen Bereich nicht auf. 
 
 Wasser ist und soll ein kommunales Gut bleiben, welches in der Grundversorgung jedem Bürger zur Verfügung stehen muss. Die hohe Trinkwasserqualität in Solingen muss erhalten bleiben und besser vermarktet werden. Wir sagen Nein zu einer Privatisierung der Wasserwirtschaft.
  
