@@ -1,5 +1,7 @@
 ---
-title: Kommunalwahlprogramm der Solinger PIRATEN
+title: Kommunalwahlprogramm
+author: Piratenpartei Solingen
+cover-image: Signet_Solingen.png
 ---
 
 # Mit den Solinger PIRATEN in den Stadtrat
@@ -37,11 +39,11 @@ Bürgerbeteiligung bedeutet für uns nicht nur Mitsprache, sondern bei Vorhaben 
 
 Auch die Räte selbst können bei wesentlichen Projekten zum Mittel des Bürgerentscheides greifen. Mit dem Beschluss über die Durchführung eines Ratsbürgerentscheides kann der Rat die Abstimmung über eine wichtige Sachfrage an die Bürger abgeben. Von dieser Möglichkeit wurde bisher in Solingen noch nie Gebrauch gemacht! 
 
-Die, auf Initiative der Piraten beschlossene stadtweite Online-Befragung zur Ausweisung neuer Gewerbegebiete, muss zu einer dauerhaften und umfassenden Beteiligungsplattform ausgebaut werden. So besteht die Möglichkeit kontinuierlich über städtische Belange mitzureden.
+Die, auf Initiative der PIRATEN beschlossene stadtweite Online-Befragung zur Ausweisung neuer Gewerbegebiete, muss zu einer dauerhaften und umfassenden Beteiligungsplattform ausgebaut werden. So besteht die Möglichkeit kontinuierlich über städtische Belange mitzureden.
                                       
 Die Solinger PIRATEN setzen sich für mehr Mitspracherechte bei der Gestaltung der Haushalte ein. Jede Haushaltsverabschiedung des Rates, soll durch einen Bürgerhaushalt begleitet werden. Dabei darf es jedoch nicht nur um Sparmaßnahmen gehen. Der Bürgerhaushalt ist so zu konzipieren, das eine wirkliche Mitgestaltungsmöglichkeit besteht.
 
-Die Piraten sind der direkte Zugang für Bürger in die Politik. Eine Piraten-Fraktion im Rat der Stadt Solingen wird den Bürgern über das Internetportal www.openantrag.de die Möglichkeit eröffnen, über die Fraktion der PIRATEN direkt Anträge im Rat zu stellen und so ihr Anliegen einzubringen.
+Die PIRATEN sind der direkte Zugang für Bürger in die Politik. Eine Piraten-Fraktion im Rat der Stadt Solingen wird den Bürgern über das Internetportal www.openantrag.de die Möglichkeit eröffnen, über die Fraktion der PIRATEN direkt Anträge im Rat zu stellen und so ihr Anliegen einzubringen.
  
 ## Transparenz
 
@@ -99,7 +101,7 @@ Die Solinger PIRATEN fordern, dass alle Ausschreibungen transparent und nachvoll
  
 ## Bürgerbüros erhalten
 
-Wir Piraten setzen uns dafür ein das die Bürgerbüros beibehalten werden. Eine Schließung wäre ein hoher Qualitätsverlust für die Menschen vor Ort. Gerade ältere, gebrechliche oder sozial schwache Menschen sind aufgrund eingeschränkter Mobilität auf eine Verwaltung vor Ort angewiesen. Wir wollen uns dafür einsetzen, dass auch im Stadtteil Wald wieder ein entsprechendes Angebot eingerichtet wird.
+Wir PIRATEN setzen uns dafür ein das die Bürgerbüros beibehalten werden. Eine Schließung wäre ein hoher Qualitätsverlust für die Menschen vor Ort. Gerade ältere, gebrechliche oder sozial schwache Menschen sind aufgrund eingeschränkter Mobilität auf eine Verwaltung vor Ort angewiesen. Wir wollen uns dafür einsetzen, dass auch im Stadtteil Wald wieder ein entsprechendes Angebot eingerichtet wird.
                                     
 # Verkehrswende für Solingen
 
@@ -114,7 +116,7 @@ Eine grundsätzliche Umstrukturierung der ÖPNV-Finanzierung wird nur mittelfris
 Das Klingenticket ist ein "Bürgerticket" und funktioniert im Prinzip auf die gleiche Art und Weise wie das Semesterticket oder das Jobticket. Beide Tickets sind aufgrund einer hohen Abnahmemenge besonders preiswert. Wenn sich eine hohe Zahl von Bürgern für ein Klingenticket entscheidet, wird also ein deutlicher  Verbilligungseffekt erzielbar sein. Die Solinger PIRATEN wissen sich in dieser Zielsetzung einig mit zahlreichen Bürgerinitiativen wie zum Beispiel dem Arbeitskreis Bürgerticket Bonn.
 (Sozialticket - siehe unter solidarisches Solingen)
 
-Für die Solinger PIRATEN hat die Förderung des ÖPNV und der Erhalt des bestehenden Straßennetzes Vorrang vor dem Bau neuer Straßen. Von daher sehen die Piraten Planungsvorhaben für große Straßenbauprojekte äußerst kritisch. Trotzdem kann nicht ignoriert werden, dass die bisherige Situation (Stand Februar 2014) an der Autobahnauffahrt zur A3 unbefriedigend ist. Wir gehen davon aus, dass die derzeit erfolgenden Baumaßnahmen endlich zu einer deutlichen Verbesserung führen. Falls sich diese Erwartung nicht ausreichend erfüllt, sollten die Bürger und nicht die Politik darüber entscheiden welcher Lösungsweg der richtige ist. Der Rat muss dazu den Weg mit einem Beschluss zur Durchführung eine Ratsbürgerentscheides freimachen.
+Für die Solinger PIRATEN hat die Förderung des ÖPNV und der Erhalt des bestehenden Straßennetzes Vorrang vor dem Bau neuer Straßen. Von daher sehen die PIRATEN Planungsvorhaben für große Straßenbauprojekte äußerst kritisch. Trotzdem kann nicht ignoriert werden, dass die bisherige Situation (Stand Februar 2014) an der Autobahnauffahrt zur A3 unbefriedigend ist. Wir gehen davon aus, dass die derzeit erfolgenden Baumaßnahmen endlich zu einer deutlichen Verbesserung führen. Falls sich diese Erwartung nicht ausreichend erfüllt, sollten die Bürger und nicht die Politik darüber entscheiden welcher Lösungsweg der richtige ist. Der Rat muss dazu den Weg mit einem Beschluss zur Durchführung eine Ratsbürgerentscheides freimachen.
                                        
 Der Hauptbahnhof mit seinem Anschluss ans ICE-Netz der Deutschen Bahn, sowie ans S-Bahn-Netz in NRW ist von größter wirtschaftlicher und sozialer Bedeutung für Solingen. Die Stadt muss sich dafür einsetzen, dass mehr ICE-Züge in Solingen halten und die Behelfserhöhungen der Bahnsteige zügiger in Massivbauweise realisiert werden. Die Aufzugs- und Kofferbänder Problematik verlangt endlich eine durchdachte, barrierefreie und haltbare Lösung für Reisende mit Gepäck.  
 
@@ -156,7 +158,7 @@ Die Einführung der Biotonne soll auf freiwilliger Basis erfolgen, wie es das Kr
 ## Energie
 
 Wir stehen hinter der Rekommunalisierung der Stadtwerke. Die PIRATEN fordern eine umfassende Bürgerbeteiligung bei schwierigen und wichtigen politischen Weichenstellungen zur zukünftigen Geschäftspolitik.   Die Einrichtung eines Fahrgastbeirates im Verkehrsbereich hat sich bewährt. Um die Kunden auch im Energiebereich besser einzubeziehen, ist auch hier ein Kundenbeirat zu gründen.  
-Solingen hat sich zum Ziel gesetzt, die gesamtstädtischen Kohlendioxid-Emissionen bis 2020 um 20 Prozent zu senken. Die Piraten unterstützen dieses Ziel nachdrücklich. Durch den gezielten Ausbau der Erneuerbaren Energien und Eigenerzeugung können die Stadtwerke einen wichtigen Beitrag zur lokalen Energiewende leisten. 
+Solingen hat sich zum Ziel gesetzt, die gesamtstädtischen Kohlendioxid-Emissionen bis 2020 um 20 Prozent zu senken. Die PIRATEN unterstützen dieses Ziel nachdrücklich. Durch den gezielten Ausbau der Erneuerbaren Energien und Eigenerzeugung können die Stadtwerke einen wichtigen Beitrag zur lokalen Energiewende leisten. 
 
 Die Umsetzung des vom Rat 2009 beschlossenen Klimaschutz-Konzeptes, das konkrete Maßnahmen und Ziele in allen wichtigen Handlungsfeldern, wie z.B. regenerative Energien, Energieeinsparung, Energieeffiziens und Mobilität vorsieht, wird von uns nachdrücklich unterstützt und muss mit den Zielen des Klimaschutzgesetzes NRW aus dem Jahr 2013 abgeglichen werden. 
 
@@ -164,7 +166,7 @@ Wir streben eine Beteiligung der Bürger an Energieprojekten der SWS (z.B. Bürg
 
 Die gegründete Energiegenossenschaft soll sich klare Ziele setzten und den Solinger Bürgern sowie den Mitgliedern einen echten Mehrwert bringen. Wie z.B. Mitbestimmung und Transparenz in der Energiepolitik der SWS, Sicherung der Energie- und Wasserversorgung zu angemessenen Preisen, Förderung der Kombination neuer Techniken in Privathaushalten etc. Zum Beispiel könnte auch ein Projekt für den Bau und die Vermarktung von Mini-BHKWs (Blockheizkraftwerke) in Solingen gefördert werden (ähnlich wie beim Projekt „100 Mikro-KWK-Anlagen“ in der InnovationCity Bottrop).
 
-Beim der Nutzung von Windenergie in Solingen ist ein sorgfältiger Abwägungsprozess erforderlich. Nach dem derzeitigen Erkenntnisstand (Stand Februar 2014) lehnen die Piraten das im Rahmen der ARGE Bergwind geplante Windradprojekt an der Sengbachtalsperre ab. Die Umstände (Kosten und Lage) für die Erschließung und Netzanbindung, sowie die Windgeschwindigkeiten (Erträge und CO2-Einsparungen) sind in Solingen nicht ideal. Der geringe Beitrag zur Energieversorgung Solingens wiegt die massive Störung des Landschaftsbildes, der Natur- und Tierwelt, in diesem,  auch für den Tourismus wichtigen, Bereich nicht auf. 
+Beim der Nutzung von Windenergie in Solingen ist ein sorgfältiger Abwägungsprozess erforderlich. Nach dem derzeitigen Erkenntnisstand (Stand Februar 2014) lehnen die PIRATEN das im Rahmen der ARGE Bergwind geplante Windradprojekt an der Sengbachtalsperre ab. Die Umstände (Kosten und Lage) für die Erschließung und Netzanbindung, sowie die Windgeschwindigkeiten (Erträge und CO2-Einsparungen) sind in Solingen nicht ideal. Der geringe Beitrag zur Energieversorgung Solingens wiegt die massive Störung des Landschaftsbildes, der Natur- und Tierwelt, in diesem,  auch für den Tourismus wichtigen, Bereich nicht auf. 
 
 Wasser ist und soll ein kommunales Gut bleiben, welches in der Grundversorgung jedem Bürger zur Verfügung stehen muss. Die hohe Trinkwasserqualität in Solingen muss erhalten bleiben und besser vermarktet werden. Wir sagen Nein zu einer Privatisierung der Wasserwirtschaft.
  
@@ -183,13 +185,13 @@ Die Piratenpartei setzt sich dafür ein, dass die Öffnungszeiten der Kitas sich
 
 Die aktuellen Öffnungszeiten nehmen vielen Eltern die Möglichkeit, ganztags zu arbeiten oder vergessen z.B. auch diejenigen, die in der Schichtarbeit tätig sind. Die Lebensverhältnisse haben sich geändert und viele Bürger, ob verheiratet, getrennt lebend oder Singles sind gezwungen, arbeiten zu gehen. Gerade um ihren Familien ein würdevolles Leben zu ermöglichen. Im Sinne des Work-Life-Balance ist der Betrieb auch während der Schulferien zu gewährleisten.
  
-Die Piraten fordern eine bessere Vernetzung von Kindertagesstätten und Kindergärten in Solingen mit dem Ziel der Überbrückung von Schließungszeiten und Milderung derer Folgen. Die nicht abgestimmten Schließungszeiten von bis zu vierzig Tagen pro Kindergartenjahr sind von Eltern nicht zu überbrücken und dürfen nicht länger zulässig sein. Die Betreuungslücke zwischen dem Ende eines Kindergartenjahres und dem Beginn der Schule muss geschlossen werden.
+Die PIRATEN fordern eine bessere Vernetzung von Kindertagesstätten und Kindergärten in Solingen mit dem Ziel der Überbrückung von Schließungszeiten und Milderung derer Folgen. Die nicht abgestimmten Schließungszeiten von bis zu vierzig Tagen pro Kindergartenjahr sind von Eltern nicht zu überbrücken und dürfen nicht länger zulässig sein. Die Betreuungslücke zwischen dem Ende eines Kindergartenjahres und dem Beginn der Schule muss geschlossen werden.
 
 Bei der Versorgung mit Speisen sprechen wir uns gegen eine von oben verordnete Regelung aus. Kita Leitungen und Eltern sollen selber entscheiden, wie die Versorgung erfolgt.  
  
 Die Inanspruchnahme des Betreuungsangebotes für U3-Jährige soll freiwillig sein. Wir kennen die Bedeutung der Eltern-Kind-Bindung in den ersten Lebensjahren an.
  
-Die Piraten setzten sich für eine effektive und gut ausgestattete offene Kinder- und Jugendarbeit ein. Kürzungen in diesem bereits mit zu knappen Mitteln ausgestatteten Bereich sind nicht tolerierbar.
+Die PIRATEN setzten sich für eine effektive und gut ausgestattete offene Kinder- und Jugendarbeit ein. Kürzungen in diesem bereits mit zu knappen Mitteln ausgestatteten Bereich sind nicht tolerierbar.
  
 Die Piratenpartei Solingen fordert, dass die Eltern Beratungsangebote erhalten, um Ihre Kinder bei einem verantwortungsvollen Umgang mit Medien zu unterstützen. Der Jugendschutz soll nicht durch Verbote oder technische Hürden erfolgen, sondern durch das Erlangen von Kompetenz und Erfahrung.
  
@@ -197,7 +199,7 @@ Die Piratenpartei fordert, dass autonome Jugendprojekte, insbesondere selbstverw
  
 # Für ein solidarisches Solingen
  
-Solidarität ist ein wichtiger Grundwert unserer Politik. Die Piraten setzen sich deshalb konsequent für die soziale Teilhabe aller Bürger und gegen jede Ausgrenzung ein. Die Teilnahme am gesellschaftlichen Leben darf weder vom Geldbeutel, noch von dem sozialen Status abhängen. Und wer altersbedingt, wegen Krankheit, Behinderung, oder aus anderen Gründen auf Unterstützung  angewiesen ist, soll sich auf ein umfassendes Hilfs- und  Versorgungsnetzwerk verlassen können.
+Solidarität ist ein wichtiger Grundwert unserer Politik. Die PIRATEN setzen sich deshalb konsequent für die soziale Teilhabe aller Bürger und gegen jede Ausgrenzung ein. Die Teilnahme am gesellschaftlichen Leben darf weder vom Geldbeutel, noch von dem sozialen Status abhängen. Und wer altersbedingt, wegen Krankheit, Behinderung, oder aus anderen Gründen auf Unterstützung  angewiesen ist, soll sich auf ein umfassendes Hilfs- und  Versorgungsnetzwerk verlassen können.
  
 Die städtischen Zuschüsse für Selbsthilfegruppen und Wohlfahrtsverbände, die ein wichtiger Bestandteil des sozialen Netzes sind, steht trotz der Finanzmisere der Stadt, für uns nicht zur Disposition. Eine Streichung dieser Gelder würde nicht nur deren Arbeit gefährden, sondern letztlich auch zu erheblichen Mehrausgaben für die Stadt führen.
  
@@ -228,12 +230,12 @@ Die steigenden Energiekosten stellen vor allem Haushalte mit niedrigerem Einkomm
 
 Der Bestand an Sozialwohnungen hat in den letzten Jahren kontinuierlich abgenommen und wird bis zum Jahr 2019 weiter abnehmen. Gleichzeitig zeichnet sich jedoch ein gleich bleibender Bedarf an sozialem Wohnraum ab. Dies gilt vor allem für altersgerechte Wohnungen. Deshalb muss die Stadt ihre begrenzten Möglichkeiten konsequent nutzen. Dies betrifft insbesondere die Bereitstellung von Bauflächen und die Frage, wie potentielle Investoren, besser als bisher akquiriert werden können. Sozialer Wohnungsbau muss unter Beachtung von ökologischen Gesichtspunkten wieder stärker gefördert werden. Auch Sozialhilfehaushalte sollen energetisch wesentlich vorteilhaftere Wohnung und Techniken nutzen dürfen, wenn dem eine entsprechende Heizkosten- bzw. Energieersparnis gegenüber steht. 
 
-Die Solinger Piraten unterstützen das Modellprojekt "Arbeitsmarktlotsen". Migranten nutzen Möglichkeiten zur Weiterbildung seltener und sind häufiger arbeitslos. Mit Hilfe von interkulturellen Arbeitsmarktlotsen soll ein besserer und unterstützender Zugang zu bestehenden Förderungsangeboten erreicht werden. Das Projekt wird vom Bundesbildungsministerium und von der Bundesagentur für Arbeit gefördert. (Eine weitere Förderung durch EU-Fördermittel ist wünschenswert.)
+Die Solinger PIRATEN unterstützen das Modellprojekt "Arbeitsmarktlotsen". Migranten nutzen Möglichkeiten zur Weiterbildung seltener und sind häufiger arbeitslos. Mit Hilfe von interkulturellen Arbeitsmarktlotsen soll ein besserer und unterstützender Zugang zu bestehenden Förderungsangeboten erreicht werden. Das Projekt wird vom Bundesbildungsministerium und von der Bundesagentur für Arbeit gefördert. (Eine weitere Förderung durch EU-Fördermittel ist wünschenswert.)
 
 Das Potenzial von Migrantenorganisationen in der außerschulischen Bildung wird ebenfalls nicht voll ausgeschöpft. Durch kooperative Elternarbeit und Selbsthilfegruppen kann der Bildungserfolg von Schülern mit Migrationshintergrund nachhaltig gesteigert werden, wenn sie institutionell gefördert werden. Die Stärke der Migrantenorganisationen liegt darin, dass sie Familien mit Migrationshintergrund häufig besser als die traditionellen Institutionen und etablierten Bildungsträger erreichen. 
 (http://www.migazin.de/2014/02/26/migrantenorganisationen-kernproblem-ist-die-fehlende-institutionelle-foerderung/)
 
-Die Piraten wollen in Solingen drei Feuerwehrwachen und eine ausreichende Personalstärke für Löscheinsätze erhalten.
+Die PIRATEN wollen in Solingen drei Feuerwehrwachen und eine ausreichende Personalstärke für Löscheinsätze erhalten.
 
 # Schulpolitik 
  
@@ -249,15 +251,15 @@ Von den, in den letzten Jahren eingerichteten Stellen für Schulsozialarbeit, pr
 
 Viele Schulgebäude sind in einem schlechten Zustand und von Platzmängeln geprägt. Im Schulentwicklungsplan ist ein Gesamtkonzept zur schrittweisen Behebung dieser Mängel zu entwickeln. Wir werden uns weiter für eine Untersuchung und Beurteilung der PCB-Belastung an Solinger Schulen einsetzen.
 
-In den Schulen ist eine angemessene Ausstattung mit Sachmitteln zu gewährleisten. Kosten für Lernmittel müssen bezahlbar und angemessen sein. Die Piraten regen an, eine bessere Tauschbörse für Schulbücher einzurichten.
+In den Schulen ist eine angemessene Ausstattung mit Sachmitteln zu gewährleisten. Kosten für Lernmittel müssen bezahlbar und angemessen sein. Die PIRATEN regen an, eine bessere Tauschbörse für Schulbücher einzurichten.
 
 Zur Unterstützung des schulischen Inklusionsprozesses, ist der Aufbau eines entsprechenden "Fachzentrums" unter Einbezug aller vorhandenen Ressourcen und Netzwerken, in die Zukunftsüberlegungen mit einzubeziehen. 
 
 Eine digitale Plattform zur Schulverwaltung ist anzustreben, um Unterrichtsausfälle besser koordinieren und nachvollziehen zu können z.B. über online Vertretungspläne, Mailinglisten und Push-Nachrichten. 
 
-Die Piraten befürworten einheitliche und nachvollziehbare Kosten der Mensa-Essen für die gesamte Stadt.
+Die PIRATEN befürworten einheitliche und nachvollziehbare Kosten der Mensa-Essen für die gesamte Stadt.
 
-Die Solinger Piraten greifen den Wunsch der Schüler auf und fordern ebenfalls mehr Nachhilfeangebote in evtl. Form einer Nachhilfe-Arbeitsgemeinschaft.
+Die Solinger PIRATEN greifen den Wunsch der Schüler auf und fordern ebenfalls mehr Nachhilfeangebote in evtl. Form einer Nachhilfe-Arbeitsgemeinschaft.
 
 Wir wollen auch ein anonymes Mängelmelder-Portal und/oder eine App für Missstände an Schulen etablieren.
 
@@ -272,7 +274,7 @@ Die Dienstleistungen der Stadtbibliothek werden von den Solingen hervorragend an
 
 Als Ergänzung zur Stadtbibliothek und als Ersatz für die früher bestehenden Büchereien in den einzelnen Stadtteilen, ist zu überlegen, wie der Einsatz eines Bücherbusses zu ermöglichen wäre.    
    
-Das soziokulturelle Zentrum Cobra ist aus dem kulturellen Leben Solingens nicht mehr wegzudenken. Der städtische Zuschuss muss, trotz der Finanzprobleme der Stadt, weiter gewährleistet sein. Die Piraten sprechen sich auch für einen Erhalt des Cobra-Kinos aus, dass Filme zeigt, die in kommerziellen Kinos in der Regel keine Rolle spielen .  
+Das soziokulturelle Zentrum Cobra ist aus dem kulturellen Leben Solingens nicht mehr wegzudenken. Der städtische Zuschuss muss, trotz der Finanzprobleme der Stadt, weiter gewährleistet sein. Die PIRATEN sprechen sich auch für einen Erhalt des Cobra-Kinos aus, dass Filme zeigt, die in kommerziellen Kinos in der Regel keine Rolle spielen .  
 
 Das Bildungs- und Freizeitangebot der VHS muss erhalten bleiben. Die Fusion mit Wuppertal darf nicht zum Abbau von Angeboten oder unangemessenen Preiserhöhungen führen. 
 
@@ -303,7 +305,7 @@ Dazu ist nötig, deutsche und europäische Fördermittel zu identifizieren und f
 
 Die Zusammenarbeit mit der Bergischen Universität ist auszubauen. Ein weiterer wichtiger Faktor ist eine gezielte Tourismusförderung. 
 
-Die Piraten wollen die Ansiedlung neuer Betriebe fördern und die Abwanderung von Firmen weitmöglichst verhindern. Dabei spielt auch die Gewerbesteuerhöhe eine wichtige Rolle. Unser Ziel ist, eine weitere Erhöhung der Gewerbesteuer Hebesätze zu vermeiden. Obwohl die Rahmenbedingungen der Stadt Monheim nicht in allen Punkten mit Solingen vergleichbar sind, beeindruckt der enorme Anstieg der dortigen Gewerbesteuer Einnahmen, die durch eine drastische Senkung des Hebesatzes erzielt wurden. Es ist zu prüfen, ob diese Strategie für Solingen ähnliche positive Effekte hätte oder ob dies in der Abwägung zu überwiegend negativen Effekten durch veränderte Schlüsselzuweisungen vom Land führt. 
+Die PIRATEN wollen die Ansiedlung neuer Betriebe fördern und die Abwanderung von Firmen weitmöglichst verhindern. Dabei spielt auch die Gewerbesteuerhöhe eine wichtige Rolle. Unser Ziel ist, eine weitere Erhöhung der Gewerbesteuer Hebesätze zu vermeiden. Obwohl die Rahmenbedingungen der Stadt Monheim nicht in allen Punkten mit Solingen vergleichbar sind, beeindruckt der enorme Anstieg der dortigen Gewerbesteuer Einnahmen, die durch eine drastische Senkung des Hebesatzes erzielt wurden. Es ist zu prüfen, ob diese Strategie für Solingen ähnliche positive Effekte hätte oder ob dies in der Abwägung zu überwiegend negativen Effekten durch veränderte Schlüsselzuweisungen vom Land führt. 
 
 Wirtschaftliche Standortentwicklung braucht ein gezieltes  Flächenmanagement. Um die Nutzung neuer Gewerbeflächen im Außenbereich auf ein vertretbares Maß reduzieren zu können, müssen auch andere Wege gegangen werden: 
 
@@ -317,7 +319,7 @@ Möglichkeiten ausgenutzt werden.
 - Wir wollen, dass die Stadt ein Gesamtkonzept zur Nutzung  
 von Gewerbebrachen entwickelt. 
  
-Die Ausweisung von Gewerbegebieten im Außenbereich ist für uns kein generelles Tabu, muss aber mit Blick auf Belastungen für Anwohner und Umwelt, sehr restriktiv gehandhabt werden. Endgültige Endscheidungen, bezüglich der in Planung befindlichen Gewerbegebieten, wie Fürkeltrath II, Keusenhof, Buschfeld und Piepersberg-West, sind erst dann zu fällen, wenn alle relevanten Umweltgutachten und Fakten wie z.B. Ertragsberechnungen auf dem Tisch liegen. Da diese Entscheidungen nicht nur Parteien, Lobbyisten und Anwohner der betroffenen Gebiete angeht, haben die Piraten die Initiative für eine stadtweite Bürgerbefragung ergriffen, die demnächst durchgeführt wird. Wir werden das Ergebnis dieser Befragungen in unsere Entscheidungsprozesse einbeziehen. 
+Die Ausweisung von Gewerbegebieten im Außenbereich ist für uns kein generelles Tabu, muss aber mit Blick auf Belastungen für Anwohner und Umwelt, sehr restriktiv gehandhabt werden. Endgültige Endscheidungen, bezüglich der in Planung befindlichen Gewerbegebieten, wie Fürkeltrath II, Keusenhof, Buschfeld und Piepersberg-West, sind erst dann zu fällen, wenn alle relevanten Umweltgutachten und Fakten wie z.B. Ertragsberechnungen auf dem Tisch liegen. Da diese Entscheidungen nicht nur Parteien, Lobbyisten und Anwohner der betroffenen Gebiete angeht, haben die PIRATEN die Initiative für eine stadtweite Bürgerbefragung ergriffen, die demnächst durchgeführt wird. Wir werden das Ergebnis dieser Befragungen in unsere Entscheidungsprozesse einbeziehen. 
 
 - Die Wirtschaftsförderung muss eine aktive Rolle als Kümmerer und Ansprechpartner für Unternehmen, besonders bei Existenzgründungen spielen. 
 
@@ -333,19 +335,19 @@ Durch den individuellen Einzelhandel wird das Bild der Stadt entscheidend mitgep
 
 ## Digitale Infrastruktur 
 
-Die Digitale Teilhabe der Bürger und die zeitgemäße Anbindung der Unternehmen liegt den Piraten in besonderem Maße am Herzen. Hierbei ist der anbieterneutrale und flächendeckende Ausbau der digitalen Infrastruktur, auch in Randbereichen, besonders zu fördern. 
+Die Digitale Teilhabe der Bürger und die zeitgemäße Anbindung der Unternehmen liegt den PIRATEN in besonderem Maße am Herzen. Hierbei ist der anbieterneutrale und flächendeckende Ausbau der digitalen Infrastruktur, auch in Randbereichen, besonders zu fördern. 
 
-Anstatt die Zusammenarbeit mit den Telekommunikationsunternehmen zu suchen, wurde in Solingen lange nur auf ein eigenes Glasfasernetz gesetzt, mit dem heute fast nur die Städtischen Betriebe vernetzt sind. In vielen Wohnbezirken und nahezu in allen Solinger Gewerbegebieten ist das Internet derzeit wesentlich langsamer als zum Beispiel in Wuppertal. Ein eindeutiger Standortnachteil für unsere Stadt, den die Piraten immer wieder anprangerten.
-Die durch die Solinger Piraten aufgezeigten Ausbaulücken bei der LTE-Mobilfunktechnik (Long Term Evolution) und beim Breitbandnetz (VDSL) an vielen Stellen unserer Stadt sind in politischen Fehleinschätzungen begründet. Die bisher geplanten Verbesserungen der Verbindungsgeschwindigkeiten durch die "Bandbreiten Offensive 2014" werden für die Solinger Bürger erst ab dem Jahr 2015 greifen, sind jedoch ein guter Anfang.  Die steigende Nachfrage nach größeren Bandbreiten in allen wirtschaftlichen Bereichen und auch die gestiegenen Erwartungen im privaten Bereich der Bürger (jedes Schulkind muss heute schon ab der Grundschule über einen Internetzugang verfügen), machen hier ein ständiges Monitoring erforderlich.
+Anstatt die Zusammenarbeit mit den Telekommunikationsunternehmen zu suchen, wurde in Solingen lange nur auf ein eigenes Glasfasernetz gesetzt, mit dem heute fast nur die Städtischen Betriebe vernetzt sind. In vielen Wohnbezirken und nahezu in allen Solinger Gewerbegebieten ist das Internet derzeit wesentlich langsamer als zum Beispiel in Wuppertal. Ein eindeutiger Standortnachteil für unsere Stadt, den die PIRATEN immer wieder anprangerten.
+Die durch die Solinger PIRATEN aufgezeigten Ausbaulücken bei der LTE-Mobilfunktechnik (Long Term Evolution) und beim Breitbandnetz (VDSL) an vielen Stellen unserer Stadt sind in politischen Fehleinschätzungen begründet. Die bisher geplanten Verbesserungen der Verbindungsgeschwindigkeiten durch die "Bandbreiten Offensive 2014" werden für die Solinger Bürger erst ab dem Jahr 2015 greifen, sind jedoch ein guter Anfang.  Die steigende Nachfrage nach größeren Bandbreiten in allen wirtschaftlichen Bereichen und auch die gestiegenen Erwartungen im privaten Bereich der Bürger (jedes Schulkind muss heute schon ab der Grundschule über einen Internetzugang verfügen), machen hier ein ständiges Monitoring erforderlich.
 
 Es muss klar sein, dass Solingen nicht bei neuen Technologien (z.B. LTE-Advanced) anderen Städten erneut um Jahre hinterherhinken darf. Des Weiteren bringen neue Technologien wie zum Beispiel Vectoring auch neue Probleme für den Wettbewerb und können langfristig eine Glasfaserverkabelung für Haushalte nicht ersetzen.
 
-Wir Solinger Piraten stellen unsere Expertise gerne zur Verfügung und werden die Entwicklung in der Stadt weiterhin kritisch begleiten. Dies gilt für unnötige, unveröffentlichte Gutachten und für Maßnahmen wie eine „umfassend konzeptionell begleitete Digitalisierung", ein digitales Kataster, offene WLAN-Netze der Stadt oder neue Dienstleistungen unter Nutzung der eID-Funktion (elektronischer Identitätsnachweis) des neuen Personalausweises(nPA).
+Wir Solinger PIRATEN stellen unsere Expertise gerne zur Verfügung und werden die Entwicklung in der Stadt weiterhin kritisch begleiten. Dies gilt für unnötige, unveröffentlichte Gutachten und für Maßnahmen wie eine „umfassend konzeptionell begleitete Digitalisierung", ein digitales Kataster, offene WLAN-Netze der Stadt oder neue Dienstleistungen unter Nutzung der eID-Funktion (elektronischer Identitätsnachweis) des neuen Personalausweises(nPA).
 
 
 # Finanzen
 
-Zahlreiche Städte in NRW stecken in einer tiefen Finanzkrise. Das gilt auch für Solingen. Verantwortlich dafür sind hausgemachte Fehler in der Vergangenheit, ansteigende Kosten für soziale Hilfen und die Aufbürde neuer Aufgaben durch Bund und Land, deren Finanzierung den Städten aufgezwungen wird. Durch Einsparmaßnahmen ist es gelungen, ein Abrutschen in den Nothaushalt zu verhindern und die Stadt handlungsfähig zu halten. Das jährliche Haushaltsdefizit ist reduziert worden. Mit Landeshilfe kann 2018 ein Ausgleich des Haushaltes erreicht werden. Die Piraten stehen zu dem Ziel des Schuldenabbaus. Einen Sparkurs um jeden Preis werden wir jedoch nicht mitmachen. Das gilt vor allem für Kürzungen im Sozial- und Bildungsbereich. 
+Zahlreiche Städte in NRW stecken in einer tiefen Finanzkrise. Das gilt auch für Solingen. Verantwortlich dafür sind hausgemachte Fehler in der Vergangenheit, ansteigende Kosten für soziale Hilfen und die Aufbürde neuer Aufgaben durch Bund und Land, deren Finanzierung den Städten aufgezwungen wird. Durch Einsparmaßnahmen ist es gelungen, ein Abrutschen in den Nothaushalt zu verhindern und die Stadt handlungsfähig zu halten. Das jährliche Haushaltsdefizit ist reduziert worden. Mit Landeshilfe kann 2018 ein Ausgleich des Haushaltes erreicht werden. Die PIRATEN stehen zu dem Ziel des Schuldenabbaus. Einen Sparkurs um jeden Preis werden wir jedoch nicht mitmachen. Das gilt vor allem für Kürzungen im Sozial- und Bildungsbereich. 
 
 Mit der Verabschiedung des Haushaltssicherungskonzeptes 2010 und der Teilnahme am Stärkungspakt NRW hat die Stadt ihren Sparwillen nachdrücklich unter Beweis gestellt. Doch eine umfassende Lösung der Finanzkrise ist nur mit einer durchgreifenden Gemeindefinanzreform von Bundes- und Landesebene zu erreichen. Vor allem ist die strikte Einhaltung des Konnexitätsprinzips zu gewährleisten. 
 
