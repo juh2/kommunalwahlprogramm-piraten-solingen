@@ -67,25 +67,25 @@ Einwohnermeldeämter dürfen laut Meldegesetz Daten an verschiedenste Einrichtun
 
 Die PIRATEN fordern, dass möglichst viele Daten, die die Stadt Solingen sammelt, auch wieder den Bürgern frei zur Verfügung gestellt werden. Open Data und geeignete Schnittstellen müssen dazu in die Prozesse der Stadtverwaltung integriert werden. Auch Verträge, die die Stadt eingeht, müssen in allen wesentlichen Teilen veröffentlicht werden.
  
-Bei Open Data – als Teil-Strategie von Open Government, also offenem Verwaltungshandeln – geht es um die bewusste Veröffentlichung von Daten in maschinenlesbaren und offenen Formaten. Dadurch können diese Datensätze von jedem genutzt werden und die Bürger erhalten mehr Einblicke in die Grundlage politischer Entscheidungen. Es handelt sich um nicht personenbezogene, nicht dem Datenschutz unterliegende Datenbestände, welche die Stadt zum Beispiel als unbearbeitete Rohdaten zur Verfügung stellt - und dies möglichst ohne lizenzrechtliche Beschränkungen. Die größere Transparenz fördert eine aktive Beteiligung und eine stärkere Identifikation des Bürgers mit der Stadt Solingen.
+Bei Open Data – als Teil-Strategie von Open Government, also offenem Verwaltungshandeln – geht es um die bewusste Veröffentlichung von Daten in maschinenlesbaren und offenen Formaten. Dadurch können diese Datensätze von jedem genutzt werden und die Bürger erhalten mehr Einblicke in die Grundlagen politischer Entscheidungen. Es handelt sich um nicht personenbezogene, nicht dem Datenschutz unterliegende Datenbestände, welche die Stadt zum Beispiel als unbearbeitete Rohdaten zur Verfügung stellt – und dies möglichst ohne lizenzrechtliche Beschränkungen. Die größere Transparenz fördert eine aktive Beteiligung und eine stärkere Identifikation des Bürgers mit der Stadt Solingen.
  
-Auf der anderen Seite werden durch die Öffnung der Datenbestände auch Impulse für innovative Entwicklungen geschaffen. Open Data kann ein Betrag zur Wirtschaftsförderung sein. Die offenen Daten machen Märkte in unterschiedlichen Regionen vergleichbar, oft weisen sie auf Nischen hin oder auf bestehende Nachfragen, die bislang nicht bedient werden. Wer zum Beispiel die Anzahl der Pflegedienste und die Altersstruktur in den Stadtbezirken von Solingen kennt, kann erahnen, wo es Sinn ergeben würde, einen weiteren Dienst zu gründen.
+Auf der anderen Seite werden durch die Öffnung der Datenbestände auch Impulse für innovative Entwicklungen geschaffen. Open Data kann ein Betrag zur Wirtschaftsförderung sein. Die offenen Daten machen Märkte in unterschiedlichen Regionen vergleichbar, oft weisen sie auf Nischen hin oder auf bestehende Nachfrage, die bislang nicht bedient wird. Wer zum Beispiel die Anzahl der Pflegedienste und die Altersstruktur in den Stadtbezirken von Solingen kennt, kann erahnen, wo es Sinn ergeben würde, einen weiteren Dienst zu gründen.
  
-Viele Datensätze aus unterschiedlichen Bereichen wie Bevölkerungsentwicklung, Justiz, Gesundheit, Soziales, Transport, Verkehr, Umwelt oder Klima sind interessant. Investitionen können kostensparender und bedarfsgerechter geplant werden. Wo gibt es viele Unfälle, Kinder, Jugendliche, Hundebesitzer, Pendler, Wachstum, Einwohnerrückgang, etc.?
+Viele Datensätze aus unterschiedlichen Bereichen wie Bevölkerungsentwicklung, Justiz, Gesundheit, Soziales, Transport, Verkehr, Umwelt oder Klima sind interessant. Investitionen können kostensparender und bedarfsgerechter geplant werden. Wo gibt es viele Unfälle, Kinder, Jugendliche, Hundebesitzer, Pendler, Wachstum, Einwohnerrückgang etc.?
  
-Allerdings sind die Daten oft so aufbereitet, dass sie sich nicht ohne weiteres verarbeiten lassen, und der Mehrwert der darin enthaltenen Informationen sich nicht ohne weiteres erschließt.  Zudem sind in der Verwaltung einige Veränderungen in den Prozessen erforderlich, um einer größtmöglichen Öffnung der Daten nachkommen zu können.
+Allerdings sind die Daten oft so aufbereitet, dass sie sich nicht ohne Aufwand verarbeiten lassen, und der Mehrwert der darin enthaltenen Informationen sich nicht ohne Weiteres erschließt.  Zudem sind in der Verwaltung Veränderungen in den Prozessen erforderlich, um die umfassende Veröffentlichung der Daten realisieren zu können.
  
 Das Informationsfreiheitsgesetz in NRW weist relativ wenige Ausnahmetatbestände auf und dies soll auch für eine zukünftige Informationsfreiheitssatzung als Grundlage von OpenData in Solingen gelten. Jedoch soll ein Anspruch auf Information ausnahmsweise dann nicht gelten, wenn es sich um Geschäftsgeheimnisse oder geheime Daten zur Gefahrenabwehr handelt.
  
-### Forderungen:
+### Forderungen im Überblick:
 
 - Erarbeitung einer Informationsfreiheitssatzung für Solingen
 - Eingliederung von Open Data in die Prozesse der Stadt Solingen
-- Verwendung von Daten in möglichst strukturierten, nicht proprietären Formaten (z.B. CSV statt Excel) unter Angabe von Herkunft und Kontext
-- Schaffung von offenen, standardisierten Schnittstellen für andere Anwendungen (API – application programming interfaces) 
+- Verwendung von Daten in möglichst strukturierten, nicht proprietären Formaten (zum Beispiel CSV statt Excel) unter Angabe von Herkunft und Kontext
+- Schaffung von offenen, standardisierten Schnittstellen für andere Anwendungen (API – Application Programming Interfaces) 
 - Bei der Anschaffung von neuer Software muss eine Open Data Schnittstelle zum Standard gehören
-- Zusammenarbeit mit dem Deutschen Städte- und Gemeindebund sowie einer Hochschule (Die Stadt Moers NRWhttp://www.offenedaten.moers.de/ hat zum Beispiel mit der Hochschule Rhein-Waal zusammengearbeitet.)
-- Publikation eines Anwendungsbeispiels z.B.: freie Verfügbarkeit der Verkehrsdaten (Busse Routing, Echtzeitnahe Information über Fahrpläne, Verspätungen, Sonderfahrten, Entfernungen zu Haltestellen etc.)
+- Zusammenarbeit mit dem Deutschen Städte- und Gemeindebund sowie einer Hochschule. Die Stadt Moers in NRW hat zum Beispiel mit der Hochschule Rhein-Waal zusammengearbeitet.[^1]
+- Publikation eines Anwendungsbeispiels zum Beispiel: freie Verfügbarkeit der Verkehrsdaten (Bus-Routing, echtzeitnahe Information über Fahrpläne, Verspätungen, Sonderfahrten, Entfernungen zu Haltestellen etc.)
 
 ## Einsatz von freier Software und offenen Datenformaten
 
@@ -93,15 +93,16 @@ Wir fordern die konsequente Nutzung von freier Software mit offenem Quellcode in
 
 ## Verschlüsselung der gesamten elektronischen Kommunikation
 
-Die Webseiten der Stadt müssen standardmäßig über eine HTTPS-Verbindung mit Forward Privacy erreichbar sein. Bürgern und Unternehmen müssen die Möglichkeit haben, jeden Mitarbeiter der Stadtverwaltung und jeden Mitarbeiter in städtischen Unternehmen mit verschlüsselter E-Mail anzuschreiben. Dazu ist auf allen Systemen OpenPGP mit einer möglichst langen Schlüssellänge zu installieren.
+Die Webseiten der Stadt müssen standardmäßig über eine HTTPS-Verbindung mit Perfect Forward Privacy erreichbar sein. Bürger und Unternehmen müssen die Möglichkeit haben, jeden Mitarbeiter der Stadtverwaltung und jeden Mitarbeiter in städtischen Unternehmen mit verschlüsselter E-Mail anzuschreiben. Dazu ist auf allen Systemen OpenPGP mit einer möglichst langen Schlüssellänge zu installieren.
 
 ## Ausschreibungen
+
 Die Solinger PIRATEN fordern, dass alle Ausschreibungen transparent und nachvollziehbar erfolgen. Sie sollen in Zukunft auch online abrufbar sein. Den Zuschlag darf nicht automatisch derjenige Anbieter erhalten, der das billigste Angebot abgibt, sondern derjenige, der langfristig das wirtschaftlichste Angebot unterbreitet.
  
  
 ## Bürgerbüros erhalten
 
-Wir PIRATEN setzen uns dafür ein das die Bürgerbüros beibehalten werden. Eine Schließung wäre ein hoher Qualitätsverlust für die Menschen vor Ort. Gerade ältere, gebrechliche oder sozial schwache Menschen sind aufgrund eingeschränkter Mobilität auf eine Verwaltung vor Ort angewiesen. Wir wollen uns dafür einsetzen, dass auch im Stadtteil Wald wieder ein entsprechendes Angebot eingerichtet wird.
+Wir PIRATEN setzen uns dafür ein, dass die Bürgerbüros erhalten werden. Eine Schließung wäre ein hoher Qualitätsverlust für die Menschen vor Ort. Viele Menschen sind aufgrund eingeschränkter Mobilität auf eine Verwaltung vor Ort angewiesen. Wir wollen uns dafür einsetzen, dass auch im Stadtteil Wald wieder ein entsprechendes Angebot eingerichtet wird.
                                     
 # Verkehrswende für Solingen
 
@@ -383,3 +384,5 @@ In den zurückliegenden Jahren kam es zur Schließung zahlreicher Freibäder. Mi
 Die Solinger Sportvereine leisten seit vielen Jahren durch die Zahlung von Gebühren und Eigenleistungen, einen wichtigen Beitrag zum Erhalt von Sportstätten. Weitere Gebührenerhöhungen, die für die Vereine nicht mehr tragbar sind, lehnen wir ab.
 
 Wir fordern eine Sportentwicklungsplanung.
+
+[^1]: http://www.offenedaten.moers.de/
