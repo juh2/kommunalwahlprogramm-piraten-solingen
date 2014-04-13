@@ -239,54 +239,54 @@ Das Potenzial von Migrantenorganisationen in der außerschulischen Bildung wird 
 
 # Schulpolitik 
  
-Wir favorisieren Schulformen des gemeinsamen Lernens. Die schon längst überfällige Gründung der neuen Gesamt- und Sekundarschule ist der richtige Weg. Bei künftigen Entscheidungen über Neugründung, Weiterentwicklung oder Schließung von Schulen, ist für uns grundsätzlich der Elternwille maßgeblich. Das gilt auch für den Ausbau des offenen Ganztages. 
+Wir favorisieren Schulformen des gemeinsamen Lernens. Die schon längst überfällige Gründung der neuen Gesamtschule und die Sekundarschule sind der richtige Weg. Bei künftigen Entscheidungen über Neugründung, Weiterentwicklung oder Schließung von Schulen ist für uns grundsätzlich der Elternwille maßgeblich. Das gilt auch für den Ausbau des offenen Ganztages. 
 
-Die Piratenpartei lehnt Werbeveranstaltungen der Bundeswehr an Schulen ab. Wird ein Angehöriger der Bundeswehr im Rahmen des Unterrichts eingeladen, ist für entsprechende Ausgewogenheit zu sorgen, z. B. durch Hinzuziehen eines bundeswehrkritischen Referenten.
+Die Piratenpartei lehnt Werbeveranstaltungen der Bundeswehr an Schulen ab. Wird ein Angehöriger der Bundeswehr im Rahmen des Unterrichts eingeladen, ist für entsprechende Ausgewogenheit zu sorgen, zum Beispiel durch Hinzuziehen eines bundeswehrkritischen Referenten.
  
 Heute nehmen Unternehmen Einfluss auf die Unterrichtsgestaltung an den Schulen durch die Bereitstellung von Unterrichtsmaterialien. Der Einfluss von Unternehmen an Schulen soll zurückgedrängt werden. Es muss transparent sein, welche Unternehmen an den Solinger Schulen bereits aktiv sind.
 
-Förderung von Medienkompetenz bei Kindern, Jugendlichen, Pädagogen und Eltern. Dazu gehört folgerichtig eine Ausstattung mit modernen Medien.
+Förderung von Medienkompetenz bei Kindern, Jugendlichen, Pädagogen und Eltern – dazu gehört folgerichtig eine Ausstattung mit modernen Medien.
 
-Von den, in den letzten Jahren eingerichteten Stellen für Schulsozialarbeit, profitieren Schüler, Eltern und Lehrer. Wir setzen für die Fortführung dieser Maßnahme ein.  
+Von den in den letzten Jahren eingerichteten Stellen für Schulsozialarbeit profitieren Schüler, Eltern und Lehrer. Wir setzen uns für die Fortführung dieser Maßnahme ein.  
 
-Viele Schulgebäude sind in einem schlechten Zustand und von Platzmängeln geprägt. Im Schulentwicklungsplan ist ein Gesamtkonzept zur schrittweisen Behebung dieser Mängel zu entwickeln. Wir werden uns weiter für eine Untersuchung und Beurteilung der PCB-Belastung an Solinger Schulen einsetzen.
+Viele Schulgebäude sind in einem schlechten Zustand und bieten zu wenig Platz. Im Schulentwicklungsplan ist ein Gesamtkonzept zur schrittweisen Behebung dieser Mängel zu entwickeln. Wir werden uns weiter für eine Untersuchung und Beurteilung der PCB-Belastung an Solinger Schulen einsetzen.
 
 In den Schulen ist eine angemessene Ausstattung mit Sachmitteln zu gewährleisten. Kosten für Lernmittel müssen bezahlbar und angemessen sein. Die PIRATEN regen an, eine bessere Tauschbörse für Schulbücher einzurichten.
 
-Zur Unterstützung des schulischen Inklusionsprozesses, ist der Aufbau eines entsprechenden "Fachzentrums" unter Einbezug aller vorhandenen Ressourcen und Netzwerken, in die Zukunftsüberlegungen mit einzubeziehen. 
+Zur Unterstützung des schulischen Inklusionsprozesses ist der Aufbau eines entsprechenden Fachzentrums unter Einbezug aller vorhandenen Ressourcen und Netzwerke in die Zukunftsüberlegungen mit einzubeziehen. 
 
-Eine digitale Plattform zur Schulverwaltung ist anzustreben, um Unterrichtsausfälle besser koordinieren und nachvollziehen zu können z.B. über online Vertretungspläne, Mailinglisten und Push-Nachrichten. 
+Eine digitale Plattform zur Schulverwaltung ist anzustreben, um Unterrichtsausfälle besser koordinieren und nachvollziehen zu können. Hierzu gehören Online-Vertretungspläne, Mailinglisten und Push-Nachrichten. 
 
 Die PIRATEN befürworten einheitliche und nachvollziehbare Kosten der Mensa-Essen für die gesamte Stadt.
 
-Die Solinger PIRATEN greifen den Wunsch der Schüler auf und fordern ebenfalls mehr Nachhilfeangebote in evtl. Form einer Nachhilfe-Arbeitsgemeinschaft.
+Die Solinger PIRATEN greifen den Wunsch der Schüler auf und fordern ebenfalls mehr Nachhilfeangebote, eventuell Form einer Nachhilfe-Arbeitsgemeinschaft.
 
-Wir wollen auch ein anonymes Mängelmelder-Portal und/oder eine App für Missstände an Schulen etablieren.
-
+Wir wollen auch ein anonymes Mängelmelder-Portal oder eine App für Missstände an Schulen etablieren.
  
 # Kultur, Denkmalschutz und Tourismus
 
-Ein vielfältiges Kulturangebot ist kein überflüssiger Luxus, sondern ein wesentlicher Faktor für eine attraktive Stadt. Städtische Einrichtungen wie zB. unsere Museen, das Theater, die VHS, die Jugendmusikschule, aber auch viele private Initiativen leisten einen wesentlichen Beitrag dazu.
+Ein vielfältiges Kulturangebot ist kein überflüssiger Luxus, sondern ein wesentlicher Faktor für eine attraktive Stadt. Städtische Einrichtungen wie zum Beispiel unsere Museen, das Theater, die VHS, die Jugendmusikschule, aber auch viele private Initiativen leisten einen wesentlichen Beitrag dazu.
 
-Die Kulturförderung sollte sich weniger auf die traditionellen Angebote beschränken, sondern verstärkt kleineren Projekten, Festivals, Subkulturen und jungen Künstlern zukommen. Aber auch der weltweite Ruhm der in Solingen vernachlässigten Choreographin Pina  könnte besser für das kulturelle Stadtmarketing genutzt werden. Warum nicht ein Tanzfestival zu Ehren von Pina Bausch in Solingen einführen?  
+Die Kulturförderung sollte sich weniger auf die traditionellen Angebote beschränken, sondern verstärkt kleineren Projekten, Festivals, Subkulturen und jungen Künstlern zugute kommen. Aber auch der weltweite Ruhm der in Solingen vernachlässigten Choreographin Pina Bausch könnte besser für das kulturelle Stadtmarketing genutzt werden. Warum nicht ein Tanzfestival zu Ehren von Pina Bausch in Solingen einführen?  
 
-Die Dienstleistungen der Stadtbibliothek werden von den Solingen hervorragend angenommen. Wir wollen, dass dies auch weiterhin so bleibt. Der Etat für Neuanschaffungen von Büchern und anderen Medien, darf nicht gekürzt werden. Das Lesecafé, das schon einmal von der Schließung bedroht war, steht für uns nicht zur Disposition. Eine Verschlechterung der Öffnungszeiten wird ebenfalls abgelehnt. 
+Die Dienstleistungen der Stadtbibliothek werden von den Solingern hervorragend angenommen. Wir wollen, dass dies auch weiterhin so bleibt. Der Etat für Neuanschaffungen von Büchern und anderen Medien darf nicht gekürzt werden. Das Lesecafé, das schon einmal von der Schließung bedroht war, steht für uns nicht zur Disposition. Eine Verschlechterung der Öffnungszeiten wird ebenfalls abgelehnt. 
 
-Als Ergänzung zur Stadtbibliothek und als Ersatz für die früher bestehenden Büchereien in den einzelnen Stadtteilen, ist zu überlegen, wie der Einsatz eines Bücherbusses zu ermöglichen wäre.    
+Als Ergänzung zur Stadtbibliothek und als Ersatz für die früher bestehenden Büchereien in den einzelnen Stadtteilen ist zu überlegen, wie der Einsatz eines Bücherbusses zu ermöglichen wäre.    
    
-Das soziokulturelle Zentrum Cobra ist aus dem kulturellen Leben Solingens nicht mehr wegzudenken. Der städtische Zuschuss muss, trotz der Finanzprobleme der Stadt, weiter gewährleistet sein. Die PIRATEN sprechen sich auch für einen Erhalt des Cobra-Kinos aus, dass Filme zeigt, die in kommerziellen Kinos in der Regel keine Rolle spielen .  
+Das soziokulturelle Zentrum Cobra ist aus dem kulturellen Leben Solingens nicht mehr wegzudenken. Der städtische Zuschuss muss, trotz der Finanzprobleme der Stadt, weiter gewährleistet sein. Die PIRATEN sprechen sich auch für einen Erhalt des Cobra-Kinos aus, das Filme zeigt, die in kommerziellen Kinos in der Regel keine Rolle spielen.
 
 Das Bildungs- und Freizeitangebot der VHS muss erhalten bleiben. Die Fusion mit Wuppertal darf nicht zum Abbau von Angeboten oder unangemessenen Preiserhöhungen führen. 
 
-Der Denkmalschutz und die Denkmalpflege sind zentrale Bedingungen für eine baukulturelle Generationengerechtigkeit.
-Sie dem Diktat knapper Haushalte zu unterwerfen wird ihrer langfristigen und gesellschaftlichen Bedeutung, gerade im Hinblick auf das Bergische Land, dessen urtypischen Ortschaften, den hohen Multiplikatoreffekts, wie Leistungen des lokalen Handwerks, Arbeitsplätze, Steueraufkommen, nicht gerecht. Die lokale Entwicklung steht auch für die Identifizierung der Menschen mit ihrer Stadt und Region. Heimat entsteht aus Identität. Wir stehen für den Erhalt des ursprünglichen Solingens.
+Der Denkmalschutz und die Denkmalpflege sind zentrale Bedingungen für eine baukulturelle Generationengerechtigkeit. Sie dem Diktat knapper Haushalte zu unterwerfen wird ihrer langfristigen und gesellschaftlichen Bedeutung im Hinblick auf das Bergische Land und seine typischen Ortschaften nicht gerecht.
+Denkmalschutz und Denkmalpflege haben Multiplikatoreffekte auf das lokale Handwerks, auf Arbeitsplätze und auf das Steueraufkommen. Die lokale Entwicklung steht auch für die Identifizierung der Menschen mit ihrer Stadt und Region. Heimat entsteht aus Identität. Wir stehen für den Erhalt des ursprünglichen Solingens.
 
-Solingen bietet neben regional bedeutsamen Rad- und Wanderwegen auch eine für das Rheinland bedeutungsvolle Geschichte. Diese gilt es, ebnso wie die Klingen-, Messer- und Schneidwarentradition, für Besucher erlebbar zu gestalten. Wir brauchen eine "Touristische Vernetzung" mit Nachbargemeinden, bessere Konzepte und auch ein stärkeres Selbstvertrauen in die Attraktivität unserer Stadt. Schloss Burg ist zum Beispiel die größte Burganlage in Nordrhein-Westfalen.
+Solingen bietet neben regional bedeutsamen Rad- und Wanderwegen auch eine für das Rheinland bedeutungsvolle Geschichte. Diese gilt es, ebenso wie die Klingen-, Messer- und Schneidwarentradition, für Besucher erlebbar zu gestalten. Wir brauchen eine touristische Vernetzung mit Nachbargemeinden, bessere Konzepte und auch ein stärkeres Selbstvertrauen in die Attraktivität unserer Stadt. Schloss Burg ist zum Beispiel die größte Burganlage in Nordrhein-Westfalen.
 
-Als Maßnahmen fordern wir eine familienfreundliche Verbesserung der Radwege (Ost-West-Achse) in Solingen. 
+Als Maßnahmen fordern wir 
 
-Einen Wettbewerb zur Bewerbung der Solinger Sehenswürdigkeiten am HBF Solingen (der dortige Schaukasten wird unserer Stadt nicht gerecht).
-Einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit.
+* eine familienfreundliche Verbesserung der Radwege (Ost-West-Achse) in Solingen 
+* einen Wettbewerb zur Bewerbung der Solinger Sehenswürdigkeiten am HBF Solingen. Der dortige Schaukasten wird unserer Stadt nicht gerecht.
+* einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit
 
 # Wirtschaft, Handel, Digitale Infrastruktur
  
@@ -296,39 +296,30 @@ Gerecht bedeutet, dass die Rahmenbedingungen in Wirtschaft und Gesellschaft in S
 Solingen schneidet bei Studien, die die wirtschaftliche Zukunftsfähigkeit bewerten, regelmäßig schlecht ab. Das muss nicht so bleiben, wenn wir konsequent nach dem Motto handeln, Stärken stärken und Schwächen beheben.
 Die polemische Diskussion, ob Solingen eine Wohnstadt im Grünen oder eine Stadt sein soll, in der sich alles den Interessen der Wirtschaft unterordnet, führt nicht weiter. 
 
-Wirtschaftsfreundlichkeit und hohe städt. Lebensqualität sind keine Gegensätze, sondern müssen zusammen gedacht werden. 
+Wirtschaftsfreundlichkeit und hohe städtische Lebensqualität sind keine Gegensätze, sondern müssen zusammen gedacht werden. 
 
-Solingen muss mit Familienfreundlichkeit dem Erhalt und Ausbau vielfältiger Bildungs- und Kulturangebote und seiner grünen Umgebung punkten. Auch das sind wichtige Faktoren, die Arbeitgeber und Arbeitnehmer dazu bewegen, nach Solingen zu kommen und hier zu bleiben. 
+Solingen muss mit Familienfreundlichkeit, dem Erhalt und Ausbau vielfältiger Bildungs- und Kulturangebote und seiner grünen Umgebung punkten. Auch das sind wichtige Faktoren, die Arbeitgeber und Arbeitnehmer dazu bewegen, nach Solingen zu kommen und hier zu bleiben. 
 
 Solingen ist und bleibt ein wichtiger Standort produzierender Industrie. Es gilt aber auch, andere Bereiche, wie den Dienstleistungssektor, die Kreativwirtschaft und den Gesundheitsbereich zu entwickeln.
-Dazu ist nötig, deutsche und europäische Fördermittel zu identifizieren und für Solingen rechtzeitig zu akquirieren. 
+Dazu ist es nötig, deutsche und europäische Fördermittel zu identifizieren und für Solingen rechtzeitig zu akquirieren. 
 
 Die Zusammenarbeit mit der Bergischen Universität ist auszubauen. Ein weiterer wichtiger Faktor ist eine gezielte Tourismusförderung. 
 
-Die PIRATEN wollen die Ansiedlung neuer Betriebe fördern und die Abwanderung von Firmen weitmöglichst verhindern. Dabei spielt auch die Gewerbesteuerhöhe eine wichtige Rolle. Unser Ziel ist, eine weitere Erhöhung der Gewerbesteuer Hebesätze zu vermeiden. Obwohl die Rahmenbedingungen der Stadt Monheim nicht in allen Punkten mit Solingen vergleichbar sind, beeindruckt der enorme Anstieg der dortigen Gewerbesteuer Einnahmen, die durch eine drastische Senkung des Hebesatzes erzielt wurden. Es ist zu prüfen, ob diese Strategie für Solingen ähnliche positive Effekte hätte oder ob dies in der Abwägung zu überwiegend negativen Effekten durch veränderte Schlüsselzuweisungen vom Land führt. 
+Die PIRATEN wollen die Ansiedlung neuer Betriebe fördern und die Abwanderung von Firmen möglichst verhindern. Dabei spielt auch die Gewerbesteuerhöhe eine wichtige Rolle. Unser Ziel ist, eine weitere Erhöhung der Gewerbesteuer-Hebesätze zu vermeiden. Obwohl die Rahmenbedingungen der Stadt Monheim nicht in allen Punkten mit Solingen vergleichbar sind, beeindruckt der enorme Anstieg der dortigen Gewerbesteuer-Einnahmen, die durch eine drastische Senkung des Hebesatzes erzielt wurden. Es ist zu prüfen, ob diese Strategie für Solingen ähnliche positive Effekte hätte oder ob dies in der Abwägung zu überwiegend negativen Effekten durch veränderte Schlüsselzuweisungen vom Land führt. 
 
-Wirtschaftliche Standortentwicklung braucht ein gezieltes  Flächenmanagement. Um die Nutzung neuer Gewerbeflächen im Außenbereich auf ein vertretbares Maß reduzieren zu können, müssen auch andere Wege gegangen werden: 
+Wirtschaftliche Standortentwicklung braucht ein gezieltes Flächenmanagement. Um die Nutzung neuer Gewerbeflächen im Außenbereich auf ein vertretbares Maß reduzieren zu können, müssen auch andere Wege gegangen werden: 
 
-- Kluge Nutzung bereits vorhandener Gewerbeflächen durch ein Gewerbegebietsmanagement, das zu Synergieeffekten bei Flächen, Energie, Logistik und Verkehr führt. Ein positives Beispiel für diesen erfolgreichen Weg ist ein Modellprojekt in Dyckerfeld.
-
-- Gezielte Nachnutzung von Gewerbe- und Industriebrachen
-Zur Verhinderung unerwünschter Ansiedlungen, wie z.B.  
-Discounter, müssen rechtzeitig alle rechtlichen 
-Möglichkeiten ausgenutzt werden. 
-
-- Wir wollen, dass die Stadt ein Gesamtkonzept zur Nutzung  
+* Kluge Nutzung bereits vorhandener Gewerbeflächen durch ein Gewerbegebietsmanagement, das zu Synergieeffekten bei Flächen, Energie, Logistik und Verkehr führt. Ein positives Beispiel für diesen erfolgreichen Weg ist ein Modellprojekt in Dyckerfeld.
+* Gezielte Nachnutzung von Gewerbe- und Industriebrachen
+* Zur Verhinderung unerwünschter Ansiedlungen, wie zum Beispiel Discounter, müssen rechtzeitig alle rechtlichen Möglichkeiten ausgenutzt werden. 
+* Wir wollen, dass die Stadt ein Gesamtkonzept zur Nutzung  
 von Gewerbebrachen entwickelt. 
- 
-Die Ausweisung von Gewerbegebieten im Außenbereich ist für uns kein generelles Tabu, muss aber mit Blick auf Belastungen für Anwohner und Umwelt, sehr restriktiv gehandhabt werden. Endgültige Endscheidungen, bezüglich der in Planung befindlichen Gewerbegebieten, wie Fürkeltrath II, Keusenhof, Buschfeld und Piepersberg-West, sind erst dann zu fällen, wenn alle relevanten Umweltgutachten und Fakten wie z.B. Ertragsberechnungen auf dem Tisch liegen. Da diese Entscheidungen nicht nur Parteien, Lobbyisten und Anwohner der betroffenen Gebiete angeht, haben die PIRATEN die Initiative für eine stadtweite Bürgerbefragung ergriffen, die demnächst durchgeführt wird. Wir werden das Ergebnis dieser Befragungen in unsere Entscheidungsprozesse einbeziehen. 
-
-- Die Wirtschaftsförderung muss eine aktive Rolle als Kümmerer und Ansprechpartner für Unternehmen, besonders bei Existenzgründungen spielen. 
-
-- In Zusammenarbeit von allen Akteuren des Arbeitsmarktes, muss eine konsequente Strategie zur Behebung des Fachkräftemangels eingeschlagen werden. 
-
-- Der Hofgarten darf nicht zu einer florierenden Insel in einer durch Leerstand fragmentierten Innenstadt entwickeln. Deshalb hat ein funktionierendes Leerstandsmanagement für uns hohe Priorität. Gerade vor dem Hintergrund, einer möglichen weiteren Kaufkraftabwanderung durch das kommende Designer-Outlet-Center in Remscheid, ist hier ein Aktionsplan erforderlich. 
-
-Die Gründung einer IGS (Immobilien- und Standortgemeinschaft) für Ohligs wird von uns befürwortet. 
-Für Wald ist dieser Weg auch empfehlenswert und daher unterstützen wir den Start der Initiative vor Ort. Darüber hinaus ist das vorgesehene Stadtteil Entwicklungskonzept  zügig zu realisieren 
+* Die Ausweisung von Gewerbegebieten im Außenbereich ist für uns kein generelles Tabu, muss aber mit Blick auf Belastungen für Anwohner und Umwelt, sehr restriktiv gehandhabt werden. Endgültige Endscheidungen bezüglich der in Planung befindlichen Gewerbegebieten Fürkeltrath II, Keusenhof, Buschfeld und Piepersberg-West sind erst dann zu fällen, wenn alle relevanten Umweltgutachten und Fakten wie zum Beispiel Ertragsberechnungen auf dem Tisch liegen. Da diese Entscheidungen nicht nur Parteien, Lobbyisten und Anwohner der betroffenen Gebiete angeht, haben die PIRATEN die Initiative für eine stadtweite Bürgerbefragung ergriffen, die demnächst durchgeführt wird. Wir werden das Ergebnis dieser Befragungen in unsere Entscheidungsprozesse einbeziehen. 
+* Die Wirtschaftsförderung muss eine aktive Rolle als Kümmerer und Ansprechpartner für Unternehmen, besonders bei Existenzgründungen spielen. 
+* In Zusammenarbeit mit allen Akteuren des Arbeitsmarktes muss eine konsequente Strategie zur Behebung des Fachkräftemangels eingeschlagen werden. 
+* Der Hofgarten darf sich nicht zu einer florierenden Insel in einer durch Leerstand fragmentierten Innenstadt entwickeln. Deshalb hat ein funktionierendes Leerstandsmanagement für uns hohe Priorität. Gerade vor dem Hintergrund einer möglichen weiteren Kaufkraftabwanderung durch das kommende Designer-Outlet-Center in Remscheid ist hier ein Aktionsplan erforderlich. 
+* Die Gründung einer IGS (Immobilien- und Standortgemeinschaft) für Ohligs wird von uns befürwortet. 
+* Für Wald ist dieser Weg auch empfehlenswert und daher unterstützen wir den Start der Initiative vor Ort. Darüber hinaus ist das vorgesehene Stadtteil-Entwicklungskonzept zügig zu realisieren 
 
 Der innerstädtische Handel bildet eine Grundlage einer florierenden Innenstadt.
 Durch den individuellen Einzelhandel wird das Bild der Stadt entscheidend mitgeprägt. Die PIRATEN fordern von der Verwaltung konkrete Schritte zur Stärkung kleiner und mittelständischer Handelsbetriebe. Die flächendeckende Ansiedlung weiterer Filialisten besonders auf zuvor gewerblich genutzten Flächen lehnen die PIRATEN grundsätzlich ab, wenn dem nicht ein zwingender Wunsch und Bedarf der Bürger gegenüber steht.
