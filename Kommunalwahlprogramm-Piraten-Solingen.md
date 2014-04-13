@@ -1,10 +1,10 @@
 ---
-title: Kommunalwahlprogramm
-author: Piratenpartei Solingen
+title: Wahlprogramm der Solinger PIRATEN
+subtitle: Kommunalwahl 2014 
 cover-image: Signet_Solingen.png
 ---
 
-# Mit den Solinger PIRATEN in den Stadtrat
+# Mit den Solinger PIRATEN in den Stadtrat {-}
  
 ## Mitdenken, mitreden, mitentscheiden in Solingen
 
@@ -18,7 +18,7 @@ Wir sind offen für neue Ideen und Mitarbeit von Menschen – auch von außerhal
 Wir PIRATEN sind der festen Auffassung, dass es in Solingen ungenutzte Potenziale gibt und auch wichtige Informationen dem Bürger vorenthalten werden. Das wollen wir ändern!
  
                                       
-# 1. Bürgerbeteiligung, Mitbestimmung und Transparenz
+# Bürgerbeteiligung, Mitbestimmung und Transparenz
 
 ## Bürgerbeteiligung
 
