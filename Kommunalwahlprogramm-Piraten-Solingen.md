@@ -116,7 +116,7 @@ Eine grundsätzliche Umstrukturierung der ÖPNV-Finanzierung wird nur mittelfris
 
 Das Klingenticket ist ein ›Bürgerticket‹ und funktioniert im Prinzip auf die gleiche Art und Weise wie das Semesterticket oder das Jobticket. Beide Tickets sind aufgrund einer hohen Abnahmemenge besonders preiswert. Wenn sich eine hohe Zahl von Bürgern für ein Klingenticket entscheidet, wird also ein deutlicher Verbilligungseffekt erzielbar sein. Die Solinger PIRATEN wissen sich in dieser Zielsetzung einig mit zahlreichen Bürgerinitiativen wie zum Beispiel dem Arbeitskreis Bürgerticket Bonn. 
 
-Die Forderungen der PIRATEN zum Sozialticket stehen im Abschnitt [Solidarisches Solingen].
+Die Forderungen der PIRATEN zum Sozialticket stehen im Abschnitt [Für ein solidarisches Solingen].
 
 Für die Solinger PIRATEN hat die Förderung des ÖPNV und der Erhalt des bestehenden Straßennetzes Vorrang vor dem Bau neuer Straßen. Von daher sehen die PIRATEN Planungsvorhaben für große Straßenbauprojekte äußerst kritisch. Trotzdem kann nicht ignoriert werden, dass die bisherige Situation (Stand Februar 2014) an der Autobahnauffahrt zur A3 unbefriedigend ist. Wir gehen davon aus, dass die derzeit erfolgenden Baumaßnahmen endlich zu einer deutlichen Verbesserung führen. Falls sich diese Erwartung nicht ausreichend erfüllt, sollten die Bürger und nicht die Politik darüber entscheiden, welcher Lösungsweg der richtige ist. Der Rat muss dazu den Weg mit einem Beschluss zur Durchführung eine Ratsbürgerentscheides freimachen.
                                        
@@ -134,8 +134,9 @@ Sicherheit ist ein wichtiger Faktor für die Lebensqualität einer Stadt. Dabei 
 
 Das Sicherheitsgefühl der Bürger wird durch eine sichtbare Präsenz von Polizei sowie dem Ordnungsdienst der Stadt gestärkt. Wir fordern eine personelle Aufstockung der Polizeiinspektion Solingen. Der Ordnungsdienst der Stadt muss ebenfalls personell in die Lage versetzt werden, verstärkt Kontrollen an problematischen Örtlichkeiten durchführen zu können.
 
-An eine Kameraüberwachung sind strengste Maßstäbe anzulegen. Sie ist nur erlaubt, wo bereits mehrfach Straftaten begangen wurden und die örtliche Lage die Begehung von weiteren Straftaten begünstigt. Für eine Lockerung der derzeit geltenden Regelung im Polizeigesetz NRW sehen wir keinen Anlass.  
+An eine Kameraüberwachung sind strengste Maßstäbe anzulegen. Sie ist nur erlaubt, wo bereits mehrfach Straftaten begangen wurden und die örtliche Lage die Begehung von weiteren Straftaten begünstigt. Für eine Lockerung der derzeit geltenden Regelung im Polizeigesetz NRW sehen wir keinen Anlass.
 
+Die PIRATEN wollen in Solingen drei Feuerwehrwachen und eine ausreichende Personalstärke für Löscheinsätze erhalten.
 
 # Umwelt, Energie und Wasser
 
@@ -176,8 +177,7 @@ Die PIRATEN lehnen Fracking wegen der Gefahren für das Grundwasser grundsätzli
 
 # Kinder, Jugend und Familie
  
-Die Piratenpartei Solingen fordert einen möglichst kostenfreien Besuch von Kindergärten, Kinderkrippen und anderen Kindertagesstätten. Kann die Gemeinde keine entsprechenden Plätze zur Verfügung stellen, hat sie umgehend für eine ortsnahe Betreuung zu sorgen, z.B. durch Tagesmütter.
-Vermerk: Solingen hat einen der höchsten Elternbeiträge in NRW 
+Die Piratenpartei Solingen fordert einen möglichst kostenfreien Besuch von Kindergärten, Kinderkrippen und anderen Kindertagesstätten. Kann die Gemeinde keine entsprechenden Plätze zur Verfügung stellen, hat sie umgehend für eine ortsnahe Betreuung zu sorgen, zum Beispiel durch Tagesmütter.[^2]
  
 ## Flexible Öffnungszeiten der Kindertagesstätten
 
@@ -185,59 +185,57 @@ Die Öffnungszeiten sollten flexibler werden. Wir fordern ein städtisches Pilot
 
 Die Piratenpartei setzt sich dafür ein, dass die Öffnungszeiten der Kitas sich den Lebensgewohnheiten der Eltern angleichen. 
 
-Die aktuellen Öffnungszeiten nehmen vielen Eltern die Möglichkeit, ganztags zu arbeiten oder vergessen z.B. auch diejenigen, die in der Schichtarbeit tätig sind. Die Lebensverhältnisse haben sich geändert und viele Bürger, ob verheiratet, getrennt lebend oder Singles sind gezwungen, arbeiten zu gehen. Gerade um ihren Familien ein würdevolles Leben zu ermöglichen. Im Sinne des Work-Life-Balance ist der Betrieb auch während der Schulferien zu gewährleisten.
+Die aktuellen Öffnungszeiten nehmen vielen Eltern die Möglichkeit, ganztags zu arbeiten. Sie vergessen auch diejenigen, die in der Schichtarbeit tätig sind. Die Lebensverhältnisse haben sich geändert und viele Bürger, ob verheiratet, getrennt lebend oder Singles sind gezwungen, arbeiten zu gehen, um ihren Familien ein würdevolles Leben zu ermöglichen. Im Sinne des Work-Life-Balance ist der Betrieb auch während der Schulferien zu gewährleisten.
  
-Die PIRATEN fordern eine bessere Vernetzung von Kindertagesstätten und Kindergärten in Solingen mit dem Ziel der Überbrückung von Schließungszeiten und Milderung derer Folgen. Die nicht abgestimmten Schließungszeiten von bis zu vierzig Tagen pro Kindergartenjahr sind von Eltern nicht zu überbrücken und dürfen nicht länger zulässig sein. Die Betreuungslücke zwischen dem Ende eines Kindergartenjahres und dem Beginn der Schule muss geschlossen werden.
+Die PIRATEN fordern eine bessere Vernetzung von Kindertagesstätten und Kindergärten in Solingen, um Schließungszeiten zu überbrücken. Die nicht abgestimmten Schließungszeiten von bis zu vierzig Tagen pro Kindergartenjahr sind von Eltern nicht zu überbrücken und dürfen nicht länger zulässig sein. Die Betreuungslücke zwischen dem Ende eines Kindergartenjahres und dem Beginn der Schule muss geschlossen werden.
 
-Bei der Versorgung mit Speisen sprechen wir uns gegen eine von oben verordnete Regelung aus. Kita Leitungen und Eltern sollen selber entscheiden, wie die Versorgung erfolgt.  
+Bei der Versorgung mit Speisen sprechen wir uns gegen eine von oben verordnete Regelung aus. Kita-Leitungen und Eltern sollen selber entscheiden, wie die Versorgung erfolgt.  
  
 Die Inanspruchnahme des Betreuungsangebotes für U3-Jährige soll freiwillig sein. Wir kennen die Bedeutung der Eltern-Kind-Bindung in den ersten Lebensjahren an.
  
 Die PIRATEN setzten sich für eine effektive und gut ausgestattete offene Kinder- und Jugendarbeit ein. Kürzungen in diesem bereits mit zu knappen Mitteln ausgestatteten Bereich sind nicht tolerierbar.
  
-Die Piratenpartei Solingen fordert, dass die Eltern Beratungsangebote erhalten, um Ihre Kinder bei einem verantwortungsvollen Umgang mit Medien zu unterstützen. Der Jugendschutz soll nicht durch Verbote oder technische Hürden erfolgen, sondern durch das Erlangen von Kompetenz und Erfahrung.
+Die Piratenpartei Solingen fordert, dass die Eltern Beratungsangebote erhalten, um ihre Kinder bei einem verantwortungsvollen Umgang mit Medien zu unterstützen. Der Jugendschutz soll nicht durch Verbote oder technische Hürden erfolgen, sondern durch das Erlangen von Kompetenz und Erfahrung.
  
-Die Piratenpartei fordert, dass autonome Jugendprojekte, insbesondere selbstverwaltende Jugendzentren gefördert werden. Wann immer es sich anbietet, sollten leerstehende Gebäude der öffentlichen Hand diesem Zweck langfristig überführt werden. Wir fordern dazu ein Pilotprojekt in Solingen!(http://www.heimat-im-quartier.de/foren/topic/was-macht-eine-stadt-oder-gemeinde-fuer-jugendliche-lebenswert/) 
+Die Piratenpartei fordert, dass autonome Jugendprojekte, insbesondere selbstverwaltete Jugendzentren gefördert werden. Wann immer es sich anbietet, sollten leerstehende Gebäude der öffentlichen Hand diesem Zweck langfristig überführt werden. Wir fordern dazu ein Pilotprojekt in Solingen![^3] 
  
 # Für ein solidarisches Solingen
  
-Solidarität ist ein wichtiger Grundwert unserer Politik. Die PIRATEN setzen sich deshalb konsequent für die soziale Teilhabe aller Bürger und gegen jede Ausgrenzung ein. Die Teilnahme am gesellschaftlichen Leben darf weder vom Geldbeutel, noch von dem sozialen Status abhängen. Und wer altersbedingt, wegen Krankheit, Behinderung, oder aus anderen Gründen auf Unterstützung  angewiesen ist, soll sich auf ein umfassendes Hilfs- und  Versorgungsnetzwerk verlassen können.
+Solidarität ist ein wichtiger Grundwert unserer Politik. Die PIRATEN setzen sich deshalb konsequent für die soziale Teilhabe aller Bürger und gegen jede Ausgrenzung ein. Die Teilnahme am gesellschaftlichen Leben darf weder vom Geldbeutel, noch von dem sozialen Status abhängen. Und wer altersbedingt, wegen Krankheit, Behinderung oder aus anderen Gründen auf Unterstützung  angewiesen ist, soll sich auf ein umfassendes Hilfs- und  Versorgungsnetzwerk verlassen können.
  
-Die städtischen Zuschüsse für Selbsthilfegruppen und Wohlfahrtsverbände, die ein wichtiger Bestandteil des sozialen Netzes sind, steht trotz der Finanzmisere der Stadt, für uns nicht zur Disposition. Eine Streichung dieser Gelder würde nicht nur deren Arbeit gefährden, sondern letztlich auch zu erheblichen Mehrausgaben für die Stadt führen.
+Die städtischen Zuschüsse für Selbsthilfegruppen und Wohlfahrtsverbände, die ein wichtiger Bestandteil des sozialen Netzes sind, stehen trotz der Finanzmisere der Stadt, für uns nicht zur Disposition. Eine Streichung dieser Gelder würde nicht nur deren Arbeit gefährden, sondern letztlich auch zu erheblichen Mehrausgaben für die Stadt führen.
  
-Wir wollen die bestehenden Vergünstigungen des „Solingen-Passes“ für ALG II-Empfänger und Bezieher von Grundsicherung im Alter und bei Erwerbsminderung beibehalten und möglichst ausbauen. So sollen z.B. Restkarten bei Kulturveranstaltungen oder freie Plätze bei VHS-Kursen kostenlos zur Verfügung gestellt werden.
+Wir wollen die bestehenden Vergünstigungen des ›Solingen-Passes‹ für ALG II-Empfänger und Bezieher von Grundsicherung im Alter und bei Erwerbsminderung beibehalten und möglichst ausbauen. So sollen zum Beispiel Restkarten bei Kulturveranstaltungen oder freie Plätze bei VHS-Kursen kostenlos zur Verfügung gestellt werden.
 
 Ausweitung des Sozialtickets: Kostenlose Mitnahme von unter 14-jährigen Kindern sollte eingeschlossen sein.
  
-Die Armut nimmt auch in Solingen zu. Wir fordern deshalb eine „Armutskonferenz“, die mindestens zwei Mal jährlich tagt. Hier sollen dann verschiedene Experten aus Politik, Verwaltung und Wohlfahrtsverbänden konkrete Maßnahmen erarbeiten, um die Armutsprävention zu verbessern und die Folgen von Armut besser bekämpfen zu können. 
+Die Armut nimmt auch in Solingen zu. Wir fordern deshalb eine Armutskonferenz, die mindestens zwei Mal jährlich tagt. Hier sollen dann verschiedene Experten aus Politik, Verwaltung und Wohlfahrtsverbänden konkrete Maßnahmen erarbeiten, um die Armutsprävention zu verbessern und die Folgen von Armut besser bekämpfen zu können. 
  
-Die Kriterien für die Angemessenheit von Miethöhe und Wohnungsgröße für Bezieher von ALG II und Grundsicherung im Alter / Erwerbsminderung, sind nicht mehr zeitgemäß. Sie müssen den tatsächlichen Erfordernissen angepasst werden, damit es leichter fällt, eine neue Wohnung zu finden.
+Die Kriterien für die Angemessenheit von Miethöhe und Wohnungsgröße für Bezieher von ALG II und Grundsicherung im Alter und bei Erwerbsminderung sind nicht mehr zeitgemäß. Sie müssen den tatsächlichen Erfordernissen angepasst werden, damit es leichter fällt, eine neue Wohnung zu finden.
  
-Bei allen öffentlichen Gebäuden, Plätzen und Gehwegen ist bei Sanierungen auf die Barrierefreiheit zu achten. Auch die kommunalen Kommunikationswege wie z.B. Webseiten sind barrierefrei zu gestalten.
+Bei allen öffentlichen Gebäuden, Plätzen und Gehwegen ist bei Sanierungen auf die Barrierefreiheit zu achten. Auch die kommunalen Kommunikationswege wie zum Beispiel Webseiten sind barrierefrei zu gestalten.
 
 Wir wollen ein Jobcenter, das kundenfreundlich arbeitet und passgenaue Hilfen für die verschiedenen Problemlagen anbietet. Dazu sollen auch eine Solinger Praktika-Börse sowie eine Vermittlung von Schülern und Studenten für stunden-, wochen- und monatsweise Aushilfstätigkeiten gehören. Dazu würde sich eine Kooperation mit anderen Nachbarstädten anbieten.
  
-Das städtische Klinikum soll in städtischer Trägerschaft bleiben. Auch die Auslagerung oder Privatisierung von Teilbereichen, wie z.B. der Küche oder der Wäscherei, wird von uns abgelehnt. Gute Medizin und gute Pflege hängen stark davon ab, ob genügend Personal zur Verfügung steht. Deshalb darf hier nicht gespart werden. Mit der baulichen Erweiterung und Investitionen in moderne Medizintechnik hat das Klinikum gute Voraussetzungen geschaffen, um sich gegen harte Konkurrenz behaupten zu können. Das medizinische Leistungsangebot muss der Notwendigkeit entsprechend erweitert werden. 
-Mit Blick auf den demographischen Wandel, halten wir hier besonders eine neue Abteilung für Geriatrie  und einen Ausbau der neurologischen Versorgung für sinnvoll. 
+Das städtische Klinikum soll in städtischer Trägerschaft bleiben. Auch die Auslagerung oder Privatisierung von Teilbereichen, wie zum Beispiel der Küche oder der Wäscherei, wird von uns abgelehnt. Gute Medizin und gute Pflege hängen stark davon ab, ob genügend Personal zur Verfügung steht. Deshalb darf hier nicht gespart werden. Mit der baulichen Erweiterung und Investitionen in moderne Medizintechnik hat das Klinikum gute Voraussetzungen geschaffen, um sich gegen harte Konkurrenz behaupten zu können. Das medizinische Leistungsangebot muss der Notwendigkeit entsprechend erweitert werden. 
+Mit Blick auf den demographischen Wandel halten wir hier besonders eine neue Abteilung für Geriatrie  und einen Ausbau der neurologischen Versorgung für sinnvoll. 
  
-Unser Umgang mit dem Thema Pflegebedürftigkeit im Alter richtet sich nach dem Grundsatz, ambulant vor stationär. Deshalb unterstützen wir alle Maßnahmen, die zum Ziel haben, alten Menschen solange wie möglich den Verbleib in ihrer Wohnung zu ermöglichen. Darüber hinaus muss der Neubau öffentlich geförderte Seniorenwohnungen forciert werden. Neue Modelle, z.B. Wohngemeinschaften, der Ausbau von haushaltsnahen Dienstleistungen und die Entwicklung altersgerechter Infrastruktur in den Stadtteilen sind wichtige Faktoren, um dieses Ziel zu erreichen. 
+Unser Umgang mit dem Thema Pflegebedürftigkeit im Alter richtet sich nach dem Grundsatz: ambulant vor stationär. Deshalb unterstützen wir alle Maßnahmen, die zum Ziel haben, alten Menschen solange wie möglich den Verbleib in ihrer Wohnung zu ermöglichen. Darüber hinaus muss der Neubau öffentlich geförderter Seniorenwohnungen forciert werden. Neue Modelle, zum Beispiel Wohngemeinschaften, der Ausbau von haushaltsnahen Dienstleistungen und die Entwicklung altersgerechter Infrastruktur in den Stadtteilen sind wichtige Faktoren, um dieses Ziel zu erreichen. 
  
-Trotz aller Fortschritte ist ein Heimaufenthalt nicht immer vermeidbar. Die drei städtischen Altenzentren sind deshalb ein wichtiger Bestandteil der Solinger Pflegelandschaft. Wie im Klinikum werden wir uns auch hier besonders dafür einsetzen, dass die personellen Voraussetzungen für eine hohe Pflegequalität eingehalten werden! Mit dem Neubau des Gerhard-Berting-Hauses und dem geplanten Teilneubau des Eugen-Maurer-Hauses werden Altenzentren auch räumlich up to date sein. 
+Trotz aller Fortschritte ist ein Heimaufenthalt nicht immer vermeidbar. Die drei städtischen Altenzentren sind deshalb ein wichtiger Bestandteil der Solinger Pflegelandschaft. Wie im Klinikum werden wir uns auch hier besonders dafür einsetzen, dass die personellen Voraussetzungen für eine hohe Pflegequalität eingehalten werden. Mit dem Neubau des Gerhard-Berting-Hauses und dem geplanten Teilneubau des Eugen-Maurer-Hauses werden Altenzentren auch räumlich up to date sein. 
  
-Alter ist jedoch nicht unbedingt gleichbedeutend mit Hilfs- oder Pflegebedürftigkeit. Im Gegenteil! Das Bedürfnis nach sozialen Kontakten, einem abwechslungsreichen Sport, Bildungs- und Kulturangebot ist wesentlich größer,  als bei früheren Generationen.  Auch der Wunsch nach dem Erhalt der Mobilität hat einen hohen Stellenwert. Viele ältere Menschen engagieren sich ehrenamtlich. Mit einer seniorengerechten Stadtplanung, einem guten ÖPNV Angebot, der Initiierung und Unterstützung von Freizeitangeboten, sowie dem Ausbau quartiersbezogener Strukturen der Altenhilfe, kann die Stadt einen wichtigen Beitrag zu einem aktiven Leben im Alter leisten.
+Alter ist jedoch nicht unbedingt gleichbedeutend mit Hilfs- oder Pflegebedürftigkeit. Im Gegenteil! Das Bedürfnis nach sozialen Kontakten, einem abwechslungsreichen Sport-, Bildungs- und Kulturangebot ist wesentlich größer  als bei früheren Generationen.  Auch der Wunsch nach dem Erhalt der Mobilität hat einen hohen Stellenwert. Viele ältere Menschen engagieren sich ehrenamtlich. Mit einer seniorengerechten Stadtplanung, einem guten ÖPNV-Angebot, der Initiierung und Unterstützung von Freizeitangeboten sowie dem Ausbau quartiersbezogener Strukturen der Altenhilfe kann die Stadt einen wichtigen Beitrag zu einem aktiven Leben im Alter leisten.
  
-Mit der anstehenden Umsetzung der UN-Behindertenrechtskonvention, steht die Stadt Solingen vor einer großen Aufgabe. Inklusion ist mehr als nur eine verbesserte Teilhabe von Menschen mit Behinderung! Inklusion bedeutet, allen, Männer und Frauen, Menschen mit oder ohne Handicap, mit oder ohne Migrationshintergrund, gesund oder krank, etabliert oder Randgruppen zugehörig, die Chance zu geben in vollem Umfang an der Gesellschaft teilzunehmen. Die Solinger PIRATEN stehen hinter dieser Zielsetzung! Wir werden die Umsetzung des Solinger Handlungskonzeptes zur Umsetzung der UN-Konvention unterstützend, aber auch kritisch begleiten. Inklusion kostet Geld. Deswegen darf das Land NRW die Kommunen nicht im Stich lassen. Gerade hier ist das Konnexitätsprinzip strikt einzuhalten.
+Mit der anstehenden Umsetzung der UN-Behindertenrechtskonvention steht die Stadt Solingen vor einer großen Aufgabe. Inklusion ist mehr als nur eine verbesserte Teilhabe von Menschen mit Behinderung. Inklusion bedeutet, allen, Männern und Frauen, Menschen mit oder ohne Handicap, mit oder ohne Migrationshintergrund, gesund oder krank, etabliert oder Randgruppen zugehörig, die Chance zu geben in vollem Umfang an der Gesellschaft teilzunehmen. Die Solinger PIRATEN stehen hinter dieser Zielsetzung! Wir werden die Umsetzung des Solinger Handlungskonzeptes zur Umsetzung der UN-Konvention unterstützend, aber auch kritisch begleiten. Inklusion kostet Geld. Deswegen darf das Land NRW die Kommunen nicht im Stich lassen. Gerade hier ist das Konnexitätsprinzip strikt einzuhalten.
  
-Die steigenden Energiekosten stellen vor allem Haushalte mit niedrigerem Einkommen vor große Probleme. Als Folge davon entstehen Stromschulden und Stromsperren. Das bereits bestehende Solinger Konzept zur Prävention von Energiearmut, muss weiter verfolgt und ausgebaut werden. Dabei kommt einer aufsuchenden Beratung, die Informationen zur Energieeinsparung und Hilfe zum Abbau von Stromschulden anbietet, eine besondere Bedeutung zu. 
+Die steigenden Energiekosten stellen vor allem Haushalte mit niedrigerem Einkommen vor große Probleme. Als Folge davon entstehen Stromschulden und Stromsperren. Das bereits bestehende Solinger Konzept zur Prävention von Energiearmut muss weiter verfolgt und ausgebaut werden. Dabei kommt einer aufsuchenden Beratung, die Informationen zur Energieeinsparung und Hilfe zum Abbau von Stromschulden anbietet, eine besondere Bedeutung zu. 
 
-Der Bestand an Sozialwohnungen hat in den letzten Jahren kontinuierlich abgenommen und wird bis zum Jahr 2019 weiter abnehmen. Gleichzeitig zeichnet sich jedoch ein gleich bleibender Bedarf an sozialem Wohnraum ab. Dies gilt vor allem für altersgerechte Wohnungen. Deshalb muss die Stadt ihre begrenzten Möglichkeiten konsequent nutzen. Dies betrifft insbesondere die Bereitstellung von Bauflächen und die Frage, wie potentielle Investoren, besser als bisher akquiriert werden können. Sozialer Wohnungsbau muss unter Beachtung von ökologischen Gesichtspunkten wieder stärker gefördert werden. Auch Sozialhilfehaushalte sollen energetisch wesentlich vorteilhaftere Wohnung und Techniken nutzen dürfen, wenn dem eine entsprechende Heizkosten- bzw. Energieersparnis gegenüber steht. 
+Der Bestand an Sozialwohnungen hat in den letzten Jahren kontinuierlich abgenommen und wird bis zum Jahr 2019 weiter abnehmen. Gleichzeitig zeichnet sich jedoch ein gleich bleibender Bedarf an sozialem Wohnraum ab. Dies gilt vor allem für altersgerechte Wohnungen. Deshalb muss die Stadt ihre begrenzten Möglichkeiten konsequent nutzen. Dies betrifft insbesondere die Bereitstellung von Bauflächen und die Frage, wie potentielle Investoren besser als bisher akquiriert werden können. Sozialer Wohnungsbau muss unter Beachtung von ökologischen Gesichtspunkten wieder stärker gefördert werden. Auch Sozialhilfehaushalte sollen energetisch wesentlich vorteilhaftere Wohnungen und Techniken nutzen dürfen, wenn dem eine entsprechende Heizkosten- bzw. Energieersparnis gegenüber steht. 
 
-Die Solinger PIRATEN unterstützen das Modellprojekt "Arbeitsmarktlotsen". Migranten nutzen Möglichkeiten zur Weiterbildung seltener und sind häufiger arbeitslos. Mit Hilfe von interkulturellen Arbeitsmarktlotsen soll ein besserer und unterstützender Zugang zu bestehenden Förderungsangeboten erreicht werden. Das Projekt wird vom Bundesbildungsministerium und von der Bundesagentur für Arbeit gefördert. (Eine weitere Förderung durch EU-Fördermittel ist wünschenswert.)
+Die Solinger PIRATEN unterstützen das Modellprojekt ›Arbeitsmarktlotsen‹. Migranten nutzen Möglichkeiten zur Weiterbildung seltener und sind häufiger arbeitslos. Mit Hilfe von interkulturellen Arbeitsmarktlotsen soll ein besserer und unterstützender Zugang zu bestehenden Förderungsangeboten erreicht werden. Das Projekt wird vom Bundesbildungsministerium und von der Bundesagentur für Arbeit gefördert.[^4]
 
-Das Potenzial von Migrantenorganisationen in der außerschulischen Bildung wird ebenfalls nicht voll ausgeschöpft. Durch kooperative Elternarbeit und Selbsthilfegruppen kann der Bildungserfolg von Schülern mit Migrationshintergrund nachhaltig gesteigert werden, wenn sie institutionell gefördert werden. Die Stärke der Migrantenorganisationen liegt darin, dass sie Familien mit Migrationshintergrund häufig besser als die traditionellen Institutionen und etablierten Bildungsträger erreichen. 
-(http://www.migazin.de/2014/02/26/migrantenorganisationen-kernproblem-ist-die-fehlende-institutionelle-foerderung/)
+Das Potenzial von Migrantenorganisationen in der außerschulischen Bildung wird ebenfalls nicht voll ausgeschöpft. Durch kooperative Elternarbeit und Selbsthilfegruppen kann der Bildungserfolg von Schülern mit Migrationshintergrund nachhaltig gesteigert werden, wenn sie institutionell gefördert werden. Die Stärke der Migrantenorganisationen liegt darin, dass sie Familien mit Migrationshintergrund häufig besser als die traditionellen Institutionen und etablierten Bildungsträger erreichen.[^5]
 
-Die PIRATEN wollen in Solingen drei Feuerwehrwachen und eine ausreichende Personalstärke für Löscheinsätze erhalten.
 
 # Schulpolitik 
  
@@ -387,3 +385,11 @@ Die Solinger Sportvereine leisten seit vielen Jahren durch die Zahlung von Gebü
 Wir fordern eine Sportentwicklungsplanung.
 
 [^1]: http://www.offenedaten.moers.de/
+
+[^2]: Solingen hat einen der höchsten Elternbeiträge in NRW.
+
+[^3]: Siehe dazu http://www.heimat-im-quartier.de/foren/topic/was-macht-eine-stadt-oder-gemeinde-fuer-jugendliche-lebenswert/
+
+[^4]: Eine weitere Förderung durch EU-Fördermittel ist wünschenswert.
+
+[^5]: http://www.migazin.de/2014/02/26/migrantenorganisationen-kernproblem-ist-die-fehlende-institutionelle-foerderung/
