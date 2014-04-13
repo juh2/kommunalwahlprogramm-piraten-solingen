@@ -337,40 +337,40 @@ Wir Solinger PIRATEN stellen unsere Expertise gerne zur Verfügung und werden di
 
 # Finanzen
 
-Zahlreiche Städte in NRW stecken in einer tiefen Finanzkrise. Das gilt auch für Solingen. Verantwortlich dafür sind hausgemachte Fehler in der Vergangenheit, ansteigende Kosten für soziale Hilfen und die Aufbürde neuer Aufgaben durch Bund und Land, deren Finanzierung den Städten aufgezwungen wird. Durch Einsparmaßnahmen ist es gelungen, ein Abrutschen in den Nothaushalt zu verhindern und die Stadt handlungsfähig zu halten. Das jährliche Haushaltsdefizit ist reduziert worden. Mit Landeshilfe kann 2018 ein Ausgleich des Haushaltes erreicht werden. Die PIRATEN stehen zu dem Ziel des Schuldenabbaus. Einen Sparkurs um jeden Preis werden wir jedoch nicht mitmachen. Das gilt vor allem für Kürzungen im Sozial- und Bildungsbereich. 
+Zahlreiche Städte in NRW stecken in einer tiefen Finanzkrise. Das gilt auch für Solingen. Verantwortlich dafür sind hausgemachte Fehler in der Vergangenheit, ansteigende Kosten für soziale Hilfen und die Aufbürdung neuer Aufgaben durch Bund und Land, deren Finanzierung den Städten aufgezwungen wird. Durch Einsparmaßnahmen ist es gelungen, ein Abrutschen in den Nothaushalt zu verhindern und die Stadt handlungsfähig zu halten. Das jährliche Haushaltsdefizit ist reduziert worden. Mit Landeshilfe kann 2018 ein Ausgleich des Haushaltes erreicht werden. Die PIRATEN stehen zu dem Ziel des Schuldenabbaus. Einen Sparkurs um jeden Preis werden wir jedoch nicht mitmachen. Das gilt vor allem für Kürzungen im Sozial- und Bildungsbereich. 
 
-Mit der Verabschiedung des Haushaltssicherungskonzeptes 2010 und der Teilnahme am Stärkungspakt NRW hat die Stadt ihren Sparwillen nachdrücklich unter Beweis gestellt. Doch eine umfassende Lösung der Finanzkrise ist nur mit einer durchgreifenden Gemeindefinanzreform von Bundes- und Landesebene zu erreichen. Vor allem ist die strikte Einhaltung des Konnexitätsprinzips zu gewährleisten. 
+Mit der Verabschiedung des Haushaltssicherungskonzeptes 2010 und der Teilnahme am Stärkungspakt NRW hat die Stadt ihren Sparwillen nachdrücklich unter Beweis gestellt. Doch eine umfassende Lösung der Finanzkrise ist nur mit einer durchgreifenden Gemeindefinanzreform auf Bundes- und Landesebene zu erreichen. Vor allem ist die strikte Einhaltung des Konnexitätsprinzips zu gewährleisten. 
 
-Jeder Bürger soll die Gelegenheit haben, sich über die Haushaltssituation der Stadt zu informieren. Komplizierte Zahlenwerke sind transparent, sowie allgemein verständlich darzustellen. Das gilt besonders bei Haushaltsberatungen. Bürgerhaushalte dürfen sich nicht nur auf Sparvorschläge beschränken. Es muss eine Möglichkeit zur umfassenden Mitgestaltung gewährleistet sein.  
+Jeder Bürger soll die Gelegenheit haben, sich über die Haushaltssituation der Stadt zu informieren. Komplizierte Zahlenwerke sind transparent und allgemein verständlich darzustellen. Das gilt besonders bei Haushaltsberatungen. Bürgerhaushalte dürfen sich nicht nur auf Sparvorschläge beschränken. Es muss eine Möglichkeit zur umfassenden Mitgestaltung gewährleistet sein.  
 
-Ohne die Umsetzung der Maßnahmen zur Konsolidierung der städtischen Finanzen, wäre die Aufrechterhaltung von zahlreichen freiwilligen Leistungen der Stadt vom Wegfall bedroht. Wir wollen auch weiterhin die Zuwendungen und Zuschüsse für Wohlfahrtsverbände, Vereine und Selbsthilfegruppen erhalten. Organisationen wie Drogenberatung, Verbraucherzentrale, Pro Familia und viele andere sind ein wichtiger Bestandteil unseres sozialen Netzes. 
+Ohne die Umsetzung der Maßnahmen zur Konsolidierung der städtischen Finanzen wäre die Aufrechterhaltung von zahlreichen freiwilligen Leistungen der Stadt vom Wegfall bedroht. Wir wollen auch weiterhin die Zuwendungen und Zuschüsse für Wohlfahrtsverbände, Vereine und Selbsthilfegruppen erhalten. Organisationen wie Drogenberatung, Verbraucherzentrale, Pro Familia und viele andere sind ein wichtiger Bestandteil unseres sozialen Netzes. 
 
-Sparen an der falschen Stelle macht keinen Sinn. Der Verzicht auf notwendige Investitionen zum Erhalt von Straßen, Gebäuden, Brücken etc. kostet am Ende mehr 
+Sparen an der falschen Stelle macht keinen Sinn. Der Verzicht auf notwendige Investitionen zum Erhalt von Straßen, Gebäuden, Brücken etc. kostet am Ende mehr.
 
 Wir fordern ein konsequentes Instandhaltungs- und Sanierungskonzept, um den Werteverfall zu stoppen. 
 
-Wir wollen eine weitere Erhöhung von Grund- und Gewerbesteuer unbedingt  vermeiden. Unser Ziel ist den angestrebten Haushaltsausgleich durch Ausgabendisziplin  zu erreichen
+Wir wollen eine weitere Erhöhung von Grund- und Gewerbesteuer unbedingt  vermeiden. Unser Ziel ist den angestrebten Haushaltsausgleich durch Ausgabendisziplin zu erreichen
 
-Die Stadt Monheim, hat durch eine drastische Senkung des Gewerbesteuersatzes und Ansiedlung von neuen Unternehmen enorme Mehreinnahmen erzielt. Wir wissen, dass die Rahmenbedingungen in Monheim sich von Solingen unterscheiden. Trotzdem soll überprüft werden, welche Effekte sich für Solingen bei einer ähnlichen Strategie ergeben würden.  
+Die Stadt Monheim hat durch eine drastische Senkung des Gewerbesteuersatzes und Ansiedlung von neuen Unternehmen enorme Mehreinnahmen erzielt. Wir wissen, dass die Rahmenbedingungen in Monheim sich von Solingen unterscheiden. Trotzdem soll überprüft werden, welche Effekte sich für Solingen bei einer ähnlichen Strategie ergeben würden.  
 
 Wir wollen klären, ob der Kauf des Rathauses für die Stadt auf Dauer billiger ist, als die derzeitigen hohen Mietzahlungen.
  
 Auch die Politik und führende städtische Mitarbeiter müssen einen Sparbeitrag leisten. Die Gehälter von Geschäftsführern städtischer GmbHs sollen bei Vertragsverlängerungen oder bei neuen Arbeitsverträgen spürbar abgesenkt werden.
  
-Im Vergleich zu anderen Ratsgremien, sind die Sitzungsgelder für Mitglieder des Verwaltungsrates der Sparkasse viel zu hoch. Hier ist eine Neuregelung überfällig.
+Im Vergleich zu anderen Ratsgremien sind die Sitzungsgelder für Mitglieder des Verwaltungsrates der Sparkasse viel zu hoch. Hier ist eine Neuregelung überfällig.
  
-Neben dem Oberbürgermeister wird die Stadt derzeit durch 2 Bürgermeisterinnen repräsentiert. Obwohl dies in aller Regel der Praxis vergleichbarer Städte entspricht, halten wir angesichts der dramatischen Finanzlage der Stadt den Verzicht auf einen Bürgermeisterposten für machbar und politisch erforderlich.
+Neben dem Oberbürgermeister wird die Stadt derzeit durch zwei Bürgermeisterinnen repräsentiert. Obwohl dies in aller Regel der Praxis vergleichbarer Städte entspricht, halten wir angesichts der dramatischen Finanzlage der Stadt den Verzicht auf einen Bürgermeisterposten für machbar und politisch erforderlich.
 
-Es besteht die gesetzliche Möglichkeit, dass kommunale Betriebsprüfer an den Betriebsprüfungen (Außenprüfung) des Finanzamtes teilnehmen. Mehrere Städte, so z.B. Bonn, Köln, Nürnberg, nutzen diese Möglichkeit, da die bisherigen Erfahrungen zeigen, dass dies zu Mehreinnahmen führt. Wir wollen klären, ob dieser Weg sich auch für Solingen lohnen würde.  
+Es besteht die gesetzliche Möglichkeit, dass kommunale Betriebsprüfer an den Betriebsprüfungen (Außenprüfung) des Finanzamtes teilnehmen. Mehrere Städte, so zum Beispiel Bonn, Köln und Nürnberg, nutzen diese Möglichkeit, da die bisherigen Erfahrungen zeigen, dass dies zu Mehreinnahmen führt. Wir wollen klären, ob dieser Weg sich auch für Solingen lohnen würde.  
 
 
 # Sport 
 
-Mit der Diskussion um den Bau eines sogenannten Spaßbades, ist viel Zeit verschenkt worden. Wir unterstützen den Erhalt des Familienbades Vogelsang und befürworten die geplanten Maßnahmen zur Attraktivierung. 
+Mit der Diskussion um den Bau eines sogenannten Spaßbades ist viel Zeit verschenkt worden. Wir unterstützen den Erhalt des Familienbades Vogelsang und befürworten die geplanten Maßnahmen zur Attraktivierung. 
 
 In den zurückliegenden Jahren kam es zur Schließung zahlreicher Freibäder. Mit zwei Freibädern wird nur noch ein Mindeststandard vorgehalten. Weitere Bäderschließungen lehnen wir strikt ab. Das gilt auch für den Fall, dass sich die Umwandlung des beliebten Heidebades in ein Naturbad nicht realisieren lässt.
 
-Die Solinger Sportvereine leisten seit vielen Jahren durch die Zahlung von Gebühren und Eigenleistungen, einen wichtigen Beitrag zum Erhalt von Sportstätten. Weitere Gebührenerhöhungen, die für die Vereine nicht mehr tragbar sind, lehnen wir ab.
+Die Solinger Sportvereine leisten seit vielen Jahren durch die Zahlung von Gebühren und Eigenleistungen einen wichtigen Beitrag zum Erhalt von Sportstätten. Weitere Gebührenerhöhungen, die für die Vereine nicht mehr tragbar sind, lehnen wir ab.
 
 Wir fordern eine Sportentwicklungsplanung.
 
