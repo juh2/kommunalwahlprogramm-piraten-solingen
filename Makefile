@@ -7,7 +7,7 @@ TARGETNAME = Kommunalwahlprogramm-Piraten-Solingen
 all: pdf epub
 
 pdf:
-	$(PANDOC) --toc --latex-engine=xelatex --variable fontsize=12pt --variable documentclass=scrbook --variable lang=german --variable date='Revisions-ID: $(REV)' -H includes.tex -o $(OUTDIR)/$(TARGETNAME)-$(REV).pdf $(DOCS)
+	$(PANDOC) --toc --latex-engine=xelatex --variable classoption=smallheadings --variable fontsize=12pt --variable documentclass=scrbook --variable lang=german --variable mainfont='DejaRip' --variable sansfont='Politics Head' --variable date='Revisions-ID: $(REV)' -H includes.tex -o $(OUTDIR)/$(TARGETNAME)-$(REV).pdf $(DOCS)
 
 latex:
 	$(PANDOC) --latex-engine=xelatex --template=template.latex -o $(OUTDIR)/$(TARGETNAME)-$(REV).tex $(DOCS)
