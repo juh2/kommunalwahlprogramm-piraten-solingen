@@ -15,6 +15,9 @@ latex:
 epub:
 	$(PANDOC) -o $(OUTDIR)/$(TARGETNAME)-$(REV).epub $(DOCS)
 
+html:
+	$(PANDOC) -o $(OUTDIR)/$(TARGETNAME)-$(REV).html $(DOCS)
+
 .PHONY: clean
 
 clean:

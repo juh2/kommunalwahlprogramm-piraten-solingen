@@ -167,7 +167,16 @@ Das Sicherheitsgefühl der Bürger wird durch eine sichtbare Präsenz von Polize
 
 An eine Kameraüberwachung sind strengste Maßstäbe anzulegen. Sie ist nur erlaubt, wo bereits mehrfach Straftaten begangen wurden und die örtliche Lage die Begehung von weiteren Straftaten begünstigt. Für eine Lockerung der derzeit geltenden Regelung im Polizeigesetz NRW sehen wir keinen Anlass.
 
-Die PIRATEN wollen in Solingen drei Feuerwehrwachen und eine ausreichende Personalstärke für Löscheinsätze erhalten.
+## Personelle Aufstockung der Einsatzkräfte und Erhalt von drei Feuerwachen
+
+Die PIRATEN fordern eine personelle Aufstockung der Einsatzkräfte im
+mittleren feuerwehrtechnischen Dienst der Feuerwehr. Die Personalstärke
+muss den Schicht- und Einsatzplänen entsprechen. Außerdem muss
+ausreichend Personal für Krankheitsvertretungen bereit stehen.
+Bereitschaftszeiten sind keine Ruhezeiten und dürfen daher nicht auf die
+notwendigen Ruhezeiten angerechnet werden.
+
+Die PIRATEN wollen die drei bestehenden Feuerwachen in Solingen erhalten.
 
 # Umwelt, Energie und Wasser
 
@@ -233,7 +242,7 @@ Die PIRATEN lehnen Fracking wegen der Gefahren für das Grundwasser grundsätzli
 
 # Kinder, Jugend und Familie
  
-Die Piratenpartei Solingen fordert einen möglichst kostenfreien Besuch von Kindergärten, Kinderkrippen und anderen Kindertagesstätten. Kann die Gemeinde keine entsprechenden Plätze zur Verfügung stellen, hat sie umgehend für eine ortsnahe Betreuung zu sorgen, zum Beispiel durch Tagesmütter.[^2]
+Die Piratenpartei Solingen fordert als Fernziel einen möglichst kostenfreien Besuch von Kindergärten, Kinderkrippen und anderen Kindertagesstätten. Kann die Gemeinde keine entsprechenden Plätze zur Verfügung stellen, hat sie umgehend für eine ortsnahe Betreuung zu sorgen, zum Beispiel durch Tagesmütter.[^2]
  
 ## Flexible Öffnungszeiten der Kindertagesstätten
 
@@ -277,7 +286,9 @@ Die städtischen Zuschüsse für Selbsthilfegruppen und Wohlfahrtsverbände, die
 
 Wir wollen die bestehenden Vergünstigungen des ›Solingen-Passes‹ für ALG II-Empfänger und Bezieher von Grundsicherung im Alter und bei Erwerbsminderung beibehalten und möglichst ausbauen. So sollen zum Beispiel Restkarten bei Kulturveranstaltungen oder freie Plätze bei VHS-Kursen kostenlos zur Verfügung gestellt werden.
 
-Ausweitung des Sozialtickets: Kostenlose Mitnahme von unter 14-jährigen Kindern sollte eingeschlossen sein.
+## Sozialticket verbessern
+
+Die Stadt Solingen soll sich beim VRR dafür einsetzen, dass die kostenlose Mitnahme von Kindern an Wochentagen nicht erst ab 19 Uhr, sondern wie an Wochenenden ganztägig ermöglicht wird. 
 
 ## Regelmäßige Armutskonferenzen
 
@@ -291,19 +302,21 @@ Die Kriterien für die Angemessenheit von Miethöhe und Wohnungsgröße für Bez
 
 Bei allen öffentlichen Gebäuden, Plätzen und Gehwegen ist bei Sanierungen auf die Barrierefreiheit zu achten. Auch die kommunalen Kommunikationswege wie zum Beispiel Webseiten sind barrierefrei zu gestalten.
 
-## Praktika-Börde für Schüler und Studenten
+## Praktika-Börse für Schüler und Studenten
 
 Wir wollen ein Jobcenter, das kundenfreundlich arbeitet und passgenaue Hilfen für die verschiedenen Problemlagen anbietet. Dazu sollen auch eine Solinger Praktika-Börse sowie eine Vermittlung von Schülern und Studenten für stunden-, wochen- und monatsweise Aushilfstätigkeiten gehören. Dazu würde sich eine Kooperation mit anderen Nachbarstädten anbieten.
 
 ## Keine Privatisierung des Klinikums 
 
 Das städtische Klinikum soll in städtischer Trägerschaft bleiben. Auch die Auslagerung oder Privatisierung von Teilbereichen, wie zum Beispiel der Küche oder der Wäscherei, wird von uns abgelehnt. Gute Medizin und gute Pflege hängen stark davon ab, ob genügend Personal zur Verfügung steht. Deshalb darf hier nicht gespart werden. Mit der baulichen Erweiterung und Investitionen in moderne Medizintechnik hat das Klinikum gute Voraussetzungen geschaffen, um sich gegen harte Konkurrenz behaupten zu können. Das medizinische Leistungsangebot muss der Notwendigkeit entsprechend erweitert werden. 
-Mit Blick auf den demographischen Wandel halten wir hier besonders eine neue Abteilung für Geriatrie  und einen Ausbau der neurologischen Versorgung für sinnvoll. 
+Mit Blick auf den demographischen Wandel halten wir hier besonders eine neue Abteilung für Geriatrie für notwendig. Weiterhin wäre ein Ausbau der neurologischen Versorgung sinnvoll. 
 
 ## Ambulante Pflege stärken
 
 Unser Umgang mit dem Thema Pflegebedürftigkeit im Alter richtet sich nach dem Grundsatz: ambulant vor stationär. Deshalb unterstützen wir alle Maßnahmen, die zum Ziel haben, alten Menschen solange wie möglich den Verbleib in ihrer Wohnung zu ermöglichen. Darüber hinaus muss der Neubau öffentlich geförderter Seniorenwohnungen forciert werden. Neue Modelle, zum Beispiel Wohngemeinschaften, der Ausbau von haushaltsnahen Dienstleistungen und die Entwicklung altersgerechter Infrastruktur in den Stadtteilen sind wichtige Faktoren, um dieses Ziel zu erreichen. 
- 
+
+## Qualität der Heimpflege sichern 
+
 Trotz aller Fortschritte ist ein Heimaufenthalt nicht immer vermeidbar. Die drei städtischen Altenzentren sind deshalb ein wichtiger Bestandteil der Solinger Pflegelandschaft. Wie im Klinikum werden wir uns auch hier besonders dafür einsetzen, dass die personellen Voraussetzungen für eine hohe Pflegequalität eingehalten werden. Mit dem Neubau des Gerhard-Berting-Hauses und dem geplanten Teilneubau des Eugen-Maurer-Hauses werden Altenzentren auch räumlich up to date sein. 
 
 ## Aktiv im Alter
@@ -499,15 +512,11 @@ Wir wollen klären, ob der Kauf des Rathauses für die Stadt auf Dauer billiger 
 
 ## Geschäftsführergehälter senken
 
-Auch die Politik und führende städtische Mitarbeiter müssen einen Sparbeitrag leisten. Die Gehälter von Geschäftsführern städtischer GmbHs sollen bei Vertragsverlängerungen oder bei neuen Arbeitsverträgen spürbar abgesenkt werden.
+Auch führende Mitarbeiter städtischer Unternehmen, müssen einen Sparbeitrag leisten. Die Gehälter von Geschäftsführern städtischer GmbHs sollen bei Vertragsverlängerungen oder bei neuen Arbeitsverträgen spürbar abgesenkt werden.
 
-## Sitzungsgelder für Sparkassen-Verwaltungsrat kürzen
+## Vereinheitlichung der Sitzungsgelder für Aufsichtsräte und Sparkassenverwaltungsrat 
 
-Im Vergleich zu anderen Ratsgremien sind die Sitzungsgelder für Mitglieder des Verwaltungsrates der Sparkasse viel zu hoch. Hier ist eine Neuregelung überfällig.
-
-## Verzicht auf einen Bürgermeisterposten
-
-Neben dem Oberbürgermeister wird die Stadt derzeit durch zwei Bürgermeisterinnen repräsentiert. Obwohl dies in aller Regel der Praxis vergleichbarer Städte entspricht, halten wir angesichts der dramatischen Finanzlage der Stadt den Verzicht auf einen Bürgermeisterposten für machbar und politisch erforderlich.
+Die Höhe der Sitzungsgelder für die Teilnahme an Sitzungen von Aufsichtsräten und dem Verwaltungsrat der Solinger Stadtsparkasse sollen vereinheitlicht werden und sich an den Regelungen der Sitzungsgelder für Rats- und Ausschusssitzungen orientieren.  
 
 ## Kommunale Betriebsprüfer einsetzen
 
@@ -530,7 +539,7 @@ Die Solinger Sportvereine leisten seit vielen Jahren durch die Zahlung von Gebü
 
 ## Sportentwicklungsplanung
 
-Wir fordern eine Sportentwicklungsplanung.
+Wir fordern dem Beispiel anderer Städte folgend, einen Sportentwicklungsplan für Solingen.
 
 [^1]: http://www.offenedaten.moers.de/
 
