@@ -70,9 +70,9 @@ Die Kernelemente sind eine grundsätzliche Veröffentlichungspflicht für alle I
 ## Barrierefreier Zugang auch in maschinenlesbarer Form                                       
 Die PIRATEN fordern, dass alle Einwohner das Recht auf Einsicht in die Verwaltungsvorgänge und Entscheidungen des Rates und der Verwaltung erhalten. Diese dürfen nicht hinter vorgeblichen Geschäftsgeheimnissen verborgen werden. Was Rat und Verwaltung tun, geht alle Bürger an. Wir fordern den barrierefreien Zugang, auch in maschinenlesbarer Form. Die Kommune soll selbst aktiv eine Kultur der offenen Verwaltung vorleben.
 
-## Keine öffentlich-privaten Partnerschaften
+## Keine Privatisierung der Kommunalen Daseinsvorsorge, keine PPP-Projekte
 
-Wir sind gegen öffentlich-private Partnerschaften, da die Vereinbarungen in der Regel nicht nachvollziehbar oder sogar geheim sind. Diese Partnerschaften haben sich zu oft als ein Verlustgeschäft für die Bürger herausgestellt.
+Wir sind gegen eine Privatisierung der Kommunalen Daseinsvorsorge. Wichtige Einrichtungen wie zum Beispiel das Klinikum oder die Stadtwerke müssen in städtischer Hand bleiben. Wir lehnen auch sogenannte PPP-Projekte, das heißt öffentlich-private Partnerschaften ab, da die Vereinbarungen in der Regel nicht nachvollziehbar oder sogar geheim sind. Diese Partnerschaften haben sich zu oft als ein Verlustgeschäft für die Bürger herausgestellt.
 
 ## Rats-TV ausbauen
 
@@ -159,7 +159,9 @@ Das bereits beschlossene gesamtstädtische Radverkehrskonzept ist zügig umzuset
 
 Wir wollen die Möglichkeiten für Park & Ride sowie Fahrgemeinschaften (zum Beispiel durch mobile Applikationen zur Findung von Mitfahrern und Parkplätzen) ausweiten und auch große Firmen am Mobilitätsmanagement der Stadt beteiligen.
 
-# Sicherheit und Ordnung
+# Sicherheit und Ordnung, Feuerwehr
+
+## Sicherheit durch mehr Präsenz und effektive Vorbeugung
 
 Sicherheit ist ein wichtiger Faktor für die Lebensqualität einer Stadt. Dabei kommt besonders der Vorbeugung von Straftaten eine hohe Bedeutung zu. Die Einrichtung einer regelmäßig tagenden ›Konferenz für Sicherheit und Ordnung‹ an der Akteure aus vielen Lebensbereichen teilnehmen, war deshalb ein richtiger Schritt. Bei allen Überlegungen muss dabei das Ziel einer effektiven Prävention im Vordergrund stehen.
 
@@ -510,6 +512,10 @@ Die Stadt Monheim hat durch eine drastische Senkung des Gewerbesteuersatzes und 
 
 Wir wollen klären, ob der Kauf des Rathauses für die Stadt auf Dauer billiger ist, als die derzeitigen hohen Mietzahlungen.
 
+## Kommunale Betriebsprüfer einsetzen
+
+Es besteht die gesetzliche Möglichkeit, dass kommunale Betriebsprüfer an den Betriebsprüfungen (Außenprüfung) des Finanzamtes teilnehmen. Mehrere Städte, so zum Beispiel Bonn, Köln und Nürnberg, nutzen diese Möglichkeit, da die bisherigen Erfahrungen zeigen, dass dies zu Mehreinnahmen führt. Wir wollen klären, ob dieser Weg sich auch für Solingen lohnen würde.
+
 ## Geschäftsführergehälter senken
 
 Auch führende Mitarbeiter städtischer Unternehmen, müssen einen Sparbeitrag leisten. Die Gehälter von Geschäftsführern städtischer GmbHs sollen bei Vertragsverlängerungen oder bei neuen Arbeitsverträgen spürbar abgesenkt werden.
@@ -517,10 +523,6 @@ Auch führende Mitarbeiter städtischer Unternehmen, müssen einen Sparbeitrag l
 ## Vereinheitlichung der Sitzungsgelder für Aufsichtsräte und Sparkassenverwaltungsrat 
 
 Die Höhe der Sitzungsgelder für die Teilnahme an Sitzungen von Aufsichtsräten und dem Verwaltungsrat der Solinger Stadtsparkasse sollen vereinheitlicht werden und sich an den Regelungen der Sitzungsgelder für Rats- und Ausschusssitzungen orientieren.  
-
-## Kommunale Betriebsprüfer einsetzen
-
-Es besteht die gesetzliche Möglichkeit, dass kommunale Betriebsprüfer an den Betriebsprüfungen (Außenprüfung) des Finanzamtes teilnehmen. Mehrere Städte, so zum Beispiel Bonn, Köln und Nürnberg, nutzen diese Möglichkeit, da die bisherigen Erfahrungen zeigen, dass dies zu Mehreinnahmen führt. Wir wollen klären, ob dieser Weg sich auch für Solingen lohnen würde.  
 
 
 # Sport 
