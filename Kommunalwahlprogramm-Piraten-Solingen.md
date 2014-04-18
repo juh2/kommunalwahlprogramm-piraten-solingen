@@ -165,7 +165,11 @@ Wir wollen die Möglichkeiten für Park & Ride sowie Fahrgemeinschaften (zum Bei
 
 Sicherheit ist ein wichtiger Faktor für die Lebensqualität einer Stadt. Dabei kommt besonders der Vorbeugung von Straftaten eine hohe Bedeutung zu. Die Einrichtung einer regelmäßig tagenden ›Konferenz für Sicherheit und Ordnung‹ an der Akteure aus vielen Lebensbereichen teilnehmen, war deshalb ein richtiger Schritt. Bei allen Überlegungen muss dabei das Ziel einer effektiven Prävention im Vordergrund stehen.
 
+## Personelle Aufstockung bei Polizei und Ordnungsamt
+
 Das Sicherheitsgefühl der Bürger wird durch eine sichtbare Präsenz von Polizei sowie dem Ordnungsdienst der Stadt gestärkt. Wir fordern eine personelle Aufstockung der Polizeiinspektion Solingen. Der Ordnungsdienst der Stadt muss ebenfalls personell in die Lage versetzt werden, verstärkt Kontrollen an problematischen Örtlichkeiten durchführen zu können.
+
+## Keine zusätzliche Kameraüberwachung
 
 An eine Kameraüberwachung sind strengste Maßstäbe anzulegen. Sie ist nur erlaubt, wo bereits mehrfach Straftaten begangen wurden und die örtliche Lage die Begehung von weiteren Straftaten begünstigt. Für eine Lockerung der derzeit geltenden Regelung im Polizeigesetz NRW sehen wir keinen Anlass.
 
