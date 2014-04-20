@@ -431,7 +431,7 @@ Als Maßnahmen fordern wir
 
 * eine familienfreundliche Verbesserung der Radwege (Ost-West-Achse) in Solingen 
 * einen Wettbewerb zur Bewerbung der Solinger Sehenswürdigkeiten am HBF Solingen. Der dortige Schaukasten wird unserer Stadt nicht gerecht.
-* einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit
+* einen jährlichen Wettstreit von Kölner und Düsseldorfer Bürgern auf Schloss Burg zur Steigerung der Bekanntheit.[^6]
 
 # Wirtschaft, Handel, Digitale Infrastruktur
  
@@ -556,3 +556,5 @@ Wir fordern dem Beispiel anderer Städte folgend, einen Sportentwicklungsplan f�
 [^4]: Eine weitere Förderung durch EU-Fördermittel ist wünschenswert.
 
 [^5]: http://www.migazin.de/2014/02/26/migrantenorganisationen-kernproblem-ist-die-fehlende-institutionelle-foerderung/
+
+[^6]: Mit Schloss Burg ist die Rivalität zwischen Köln und Düsseldorf historisch verbunden. Vor diesen Hintergrund könnte ein Städte-Wettstreit ausgerichtet werden. Während des Limburger Erbfolgestreites nahm Graf Adolf V. von Berg in der entscheidenden Schlacht von Worringen (1288) teil. Nach dem Sieg wurde der Verlierer, der Erzbischof von Köln, Siegfried von Westerburg, auf Schloss Burg gefangen gehalten. Adolf V. hatte nun freie Hand, eine Stadt unter seiner Kontrolle am Rhein zu gründen: Düsseldorf.
