@@ -18,6 +18,9 @@ epub:
 html:
 	$(PANDOC) -o $(OUTDIR)/$(TARGETNAME)-$(REV).html $(DOCS)
 
+word:
+	$(PANDOC) -o $(OUTDIR)/$(TARGETNAME)-$(REV).docx $(DOCS)
+
 .PHONY: clean
 
 clean:
